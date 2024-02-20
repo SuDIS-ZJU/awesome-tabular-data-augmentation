@@ -20,6 +20,22 @@ Papers listed here may be not from top publications, some of them even are not f
 [SIGMOD Conference Companion] **Table Discovery in Data Lakes: State-of-the-art and Future Directions**
 [[paper](https://dl.acm.org/doi/10.1145/3555041.3589409)]
 
+[SIGMOD] **Watchog: A Light-weight Contrastive Learning based Framework for Column Annotation**
+[[paper](https://dl.acm.org/doi/10.1145/3626766)]
+
+### Year 2022
+
+[VLDB] **Integrating Data Lake Tables**
+[[paper](https://dl.acm.org/doi/10.14778/3574245.3574274)]
+[[official code](https://github.com/northeastern-datalab/alite)]
+
+[SIGMOD] **Leva: Boosting Machine Learning Performance with Relational Embedding Data Augmentation**
+[[paper](https://dl.acm.org/doi/10.1145/3514221.3517891)]
+
+
+
+
+
 
 
 
