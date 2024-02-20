@@ -105,6 +105,28 @@ Papers listed here may be not from top publications, some of them even are not f
 [SIGMOD] **Organizing Data Lakes for Navigation**
 [[paper](https://dl.acm.org/doi/10.1145/3318464.3380605)]
 
+### Year 2019
+
+[SIGMOD] **JOSIE: Overlap Set Similarity Search for Finding Joinable Tables in Data Lakes**
+[[paper](https://dl.acm.org/doi/10.1145/3299869.3300065)]
+
+[IJCAI] **FakeTables: Using GANs to Generate Functional Dependency Preserving Tables with Bounded Real Data**
+[[paper](https://www.ijcai.org/proceedings/2019/287)]
+
+[SIGIR] **Table2Vec: Neural Word and Entity Embeddings for Table Population and Retrieval**
+[[paper](https://dl.acm.org/doi/10.1145/3331184.3331333)]
+[[official code](https://github.com/iai-group/sigir2019-table2vec)]
+
+[SIGKDD] **Sherlock: A Deep Learning Approach to Semantic Data Type Detection**
+[[paper](https://dl.acm.org/doi/10.1145/3292500.3330993)]
+
+[CIKM] **Auto-completion for Data Cells in Relational Tables**
+[[paper](https://dl.acm.org/doi/10.1145/3357384.3357932)]
+
+
+
+
+
 
 
 
