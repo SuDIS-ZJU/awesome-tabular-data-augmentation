@@ -153,6 +153,12 @@ Papers listed here may be not from top publications, some of them even are not f
 [BDC] **Towards a Hybrid Imputation Approach Using Web Tables**
 [[paper](http://ieeexplore.ieee.org/document/7406326/)]
 
+### Year 2013
+
+[SIGMOD] **InfoGather+: semantic matching and annotation of numeric and time-varying attributes in web tables**
+[[paper](https://dl.acm.org/doi/10.1145/2463676.2465276)]
+
+
 ### Year 2012
 
 [SIGMOD] **InfoGather: entity augmentation and attribute discovery by holistic matching with web tables**
