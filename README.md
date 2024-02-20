@@ -39,6 +39,9 @@ Papers listed here may be not from top publications, some of them even are not f
 [VLDB] **Selective data acquisition in the wild for model charging**
 [[paper](https://dl.acm.org/doi/10.14778/3523210.3523223)]
 
+[ICDE] **Feature Augmentation with Reinforcement Learning**
+[[paper](https://ieeexplore.ieee.org/document/9835530/)]
+
 [VLDB] **Coresets over multiple tables for feature-rich and data-efficient machine learning**
 [[paper](https://dl.acm.org/doi/10.14778/3561261.3561267)]
 [[official code](https://github.com/for0nething/RECON)]
@@ -52,6 +55,65 @@ Papers listed here may be not from top publications, some of them even are not f
 [SIGMOD] **Annotating Columns with Pre-trained Language Models**
 [[paper](https://dl.acm.org/doi/10.1145/3514221.3517906)]
 [[official code](https://github.com/megagonlabs/doduo)]
+
+[WWW] **StruBERT: Structure-aware BERT for Table Search and Matching**
+[[paper](https://dl.acm.org/doi/10.1145/3485447.3511972)]
+[[official code](https://github.com/megagonlabs/doduo)]
+
+### Year 2021
+
+[SIGMOD] **Rotom: A Meta-Learned Data Augmentation Framework for Entity Matching, Data Cleaning, Text Classification, and Beyond**
+[[paper](https://dl.acm.org/doi/10.1145/3448016.3457258)]
+[[official code](https://github.com/megagonlabs/rotom)]
+
+[ICDE] **Efficient Joinable Table Discovery in Data Lakes: A High-Dimensional Similarity-Based Approach**
+[[paper](https://ieeexplore.ieee.org/document/9458717/)]
+
+[VLDB] **Automatic data acquisition for deep learning**
+[[paper](https://dl.acm.org/doi/10.14778/3476311.3476333)]
+
+[ICDE] **Valentine: Evaluating Matching Techniques for Dataset Discovery**
+[[paper](https://ieeexplore.ieee.org/document/9458921/)]
+[[official code](https://github.com/delftdata/valentine)]
+
+[VLDB] **RONIN: data lake exploration**
+[[paper](https://dl.acm.org/doi/10.14778/3476311.3476364)]
+
+### Year 2021
+
+[VLDB] **ARDA: automatic relational data augmentation for machine learning**
+[[paper](https://dl.acm.org/doi/10.14778/3397230.3397235)]
+
+[ICDE] **Dataset Discovery in Data Lakes**
+[[paper](https://ieeexplore.ieee.org/document/9101607/)]
+
+[VLDB] **Relational data synthesis using generative adversarial networks: a design space exploration**
+[[paper](https://dl.acm.org/doi/10.14778/3407790.3407802)]
+[[official code](https://github.com/ruclty/Daisy)]
+
+[VLDB] **Sato: contextual semantic type detection in tables**
+[[paper](https://dl.acm.org/doi/10.14778/3407790.3407793)]
+[[official code](https://github.com/megagonlabs/sato)]
+
+[VLDB] **TURL: table understanding through representation learning**
+[[paper](https://dl.acm.org/doi/10.14778/3430915.3430921)]
+[[official code](https://github.com/sunlab-osu/TURL)]
+
+[WWW] **Novel Entity Discovery from Web Tables**
+[[paper](https://dl.acm.org/doi/10.1145/3366423.3380205)]
+
+[SIGMOD] **Organizing Data Lakes for Navigation**
+[[paper](https://dl.acm.org/doi/10.1145/3318464.3380605)]
+
+
+
+
+
+
+
+
+
+
 
 
 
