@@ -32,6 +32,27 @@ Papers listed here may be not from top publications, some of them even are not f
 [SIGMOD] **Leva: Boosting Machine Learning Performance with Relational Embedding Data Augmentation**
 [[paper](https://dl.acm.org/doi/10.1145/3514221.3517891)]
 
+[VLDB] **MATE: multi-attribute table extraction**
+[[paper](https://dl.acm.org/doi/10.14778/3529337.3529353)]
+[[official code](https://github.com/LUH-DBS/MATE)]
+
+[VLDB] **Selective data acquisition in the wild for model charging**
+[[paper](https://dl.acm.org/doi/10.14778/3523210.3523223)]
+
+[VLDB] **Coresets over multiple tables for feature-rich and data-efficient machine learning**
+[[paper](https://dl.acm.org/doi/10.14778/3561261.3561267)]
+[[official code](https://github.com/for0nething/RECON)]
+
+[ICDE] **A Sketch-based Index for Correlated Dataset Search**
+[[paper](https://ieeexplore.ieee.org/document/9835690/)]
+
+[TKDE] **Data Lake Organization**
+[[paper](https://ieeexplore.ieee.org/document/9693372/)]
+
+[SIGMOD] **Annotating Columns with Pre-trained Language Models**
+[[paper](https://dl.acm.org/doi/10.1145/3514221.3517906)]
+[[official code](https://github.com/megagonlabs/doduo)]
+
 
 
 
