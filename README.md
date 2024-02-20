@@ -123,8 +123,43 @@ Papers listed here may be not from top publications, some of them even are not f
 [CIKM] **Auto-completion for Data Cells in Relational Tables**
 [[paper](https://dl.acm.org/doi/10.1145/3357384.3357932)]
 
+### Year 2018
 
+[VLDB] **Table union search on open data**
+[[paper](https://dl.acm.org/doi/10.14778/3192965.3192973)]
 
+[VLDB] **Open data integration**
+[[paper](https://dl.acm.org/doi/10.14778/3229863.3240491)]
+
+[ICDE] **Aurum: A Data Discovery System**
+[[paper](https://ieeexplore.ieee.org/document/8509315/)]
+[[official code](https://github.com/mitdbg/aurum-datadiscovery)]
+
+[VLDB] **Data synthesis based on generative adversarial networks**
+[[paper](https://dl.acm.org/doi/10.14778/3231751.3231757)]
+
+### Year 2017
+
+[SIGIR] **EntiTables: Smart Assistance for Entity-Focused Tables**
+[[paper](https://dl.acm.org/doi/10.1145/3077136.3080796)]
+
+### Year 2016
+
+[VLDB] **LSH ensemble: internet-scale domain search**
+[[paper](https://dl.acm.org/doi/10.14778/2994509.2994534)]
+
+### Year 2015
+
+[BDC] **Towards a Hybrid Imputation Approach Using Web Tables**
+[[paper](http://ieeexplore.ieee.org/document/7406326/)]
+
+### Year 2012
+
+[SIGMOD] **InfoGather: entity augmentation and attribute discovery by holistic matching with web tables**
+[[paper](https://dl.acm.org/doi/10.1145/2213836.2213848)]
+
+[SIGMOD] **Finding related tables**
+[[paper](https://dl.acm.org/doi/10.1145/2213836.2213962)]
 
 
 
