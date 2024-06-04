@@ -1,4 +1,4 @@
-## ❖ Must-Read Papers on Relational Data Augmentation
+## ❖ Must-Read Papers on Tabular Data Augmentation (TDA)
 Papers listed here may be not from top publications, some of them even are not for purely relational data, but are all interesting papers related to relational data augmentation that deserve reading.
 
 ### Year 2023
