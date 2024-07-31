@@ -9,6 +9,7 @@ A survey providing a comprehensive examination of tabular data augmentation (TDA
 
 ## Pre-augmentation tasks 
 ![Sources](Figures/Pre-augmentation_tasks.png)
+![Sources](Figures/Pre-augmentation_tasks.png)
 
 
 
