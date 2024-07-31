@@ -14,7 +14,7 @@ A survey providing a comprehensive examination of tabular data augmentation (TDA
 ## Augmentation 
 ![Sources](Figures/Augmentation_tasks.png)
 
-## Post-augmentation 
+## <a href="Post-augmentation">Post-augmentation </a>
 
 
 
