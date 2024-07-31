@@ -7,14 +7,14 @@ A survey providing a comprehensive examination of tabular data augmentation (TDA
 ## TDA pipeline
 ![Sources](Figures/TDA_pipeline.png)
 
-## Pre-augmentation tasks 
+## Pre-augmentation
 ![Sources](Figures/Pre-augmentation_tasks.png)
 ![Sources](Figures/Pre-augmentation_for_different_scenarios.png)
 
-## Augmentation tasks 
+## Augmentation 
+![Sources](Figures/Augmentation_tasks.png)
 
-
-
+## Post-augmentation 
 
 
 
