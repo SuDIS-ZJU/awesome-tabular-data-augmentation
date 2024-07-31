@@ -3,7 +3,7 @@ A survey providing a comprehensive examination of tabular data augmentation (TDA
 
 ### An example of TDA for ML
 
-![Sources](Figures/TDA)
+![Sources](Figures/TDA scenario.pdf)
 
 
 
