@@ -41,7 +41,7 @@
   </tr>
   <tr>
     <td class="tg-c3ow">6</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.1145/2463676.2465276"> InfoGather </a>InfoGather</td>
+    <td class="tg-0pky"><a href="https://doi.org/10.1145/2463676.2465276"> InfoGather </a></td>
     <td class="tg-0pky">2012</td>
     <td class="tg-0pky">Table Simpification(Summariztion), Table Representation(Content+Metadata), <br>Table Indexing(Inverted index), Schema Matching(Textual+Meatadata)</td>
   </tr>
@@ -53,7 +53,7 @@
   </tr>
   <tr>
     <td class="tg-c3ow">8</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.1007/978-3-319-25007-6_25"> TabEL </a>TabEL</td>
+    <td class="tg-0pky"><a href="https://doi.org/10.1007/978-3-319-25007-6_25"> TabEL </a></td>
     <td class="tg-0pky">2015</td>
     <td class="tg-0pky">Table Representation(Content),&nbsp;&nbsp;Entity Matching(DB)</td>
   </tr>
@@ -77,7 +77,7 @@
   </tr>
   <tr>
     <td class="tg-c3ow">12</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.14778/2994509.2994534"> LSH Ensemble </a>LSH Ensemble</td>
+    <td class="tg-0pky"><a href="https://doi.org/10.14778/2994509.2994534"> LSH Ensemble </a></td>
     <td class="tg-0pky">2016</td>
     <td class="tg-0pky">Table Representation(Content), Table Indexing(LSH)</td>
   </tr>
@@ -149,7 +149,7 @@
   </tr>
   <tr>
     <td class="tg-c3ow">24</td>
-    <td class="tg-0pky"><a href="https://openreview.net/forum?id=S1zk9iRqF7"> PATE-GA </a>N</td>
+    <td class="tg-0pky"><a href="https://openreview.net/forum?id=S1zk9iRqF7"> PATE-GAN </a></td>
     <td class="tg-0pky">2019</td>
     <td class="tg-0pky">Table Representation(Content)</td>
   </tr>
@@ -173,7 +173,7 @@
   </tr>
   <tr>
     <td class="tg-c3ow">28</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.1109/ICDE48307.2020.00067"> $D^3L$ </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.1109/ICDE48307.2020.00067"> <p>D^3L</p></td>
     <td class="tg-0pky">2020</td>
     <td class="tg-0pky">Error Handling(Implicit), Table Annotation(Supervised-learning), Table Representation(Content), <br>Table Indexing(LSH), Schema Matching(Textual+Numerical)</td>
   </tr>
@@ -323,7 +323,7 @@
   </tr>
   <tr>
     <td class="tg-c3ow">53</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.14778/3603581.3603587"> Limaye et al. </a>DeepJoin</td>
+    <td class="tg-0pky"><a href="https://doi.org/10.14778/3603581.3603587"> DeepJoin </a></td>
     <td class="tg-0pky">2023</td>
     <td class="tg-0pky">Error Handling (Implicit), Table Simplification (Sampling), Table Representation (Content),<br> Table Indexing (HNSW), Schema Matching (Textual)</td>
   </tr>
@@ -413,7 +413,7 @@
   </tr>
   <tr>
     <td class="tg-c3ow">68</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.1145/3639283"> Limaye et al. </a>RelDDPM</td>
+    <td class="tg-0pky"><a href="https://doi.org/10.1145/3639283"> RelDDPM </a></td>
     <td class="tg-0pky">2024</td>
     <td class="tg-0pky">Table Representation(Content)</td>
   </tr>
