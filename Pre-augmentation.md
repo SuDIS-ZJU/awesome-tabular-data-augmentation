@@ -11,7 +11,7 @@
 <tbody>
   <tr>
     <td class="tg-c3ow">1</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.14778/1920841.1921005"> Annotating and searching web tables using entities, types and relationships </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.14778/1920841.1921005"> Annotating and searching web tables<br>using entities, types and relationships </a></td>
     <td class="tg-0pky">2010</td>
     <td class="tg-0pky">Table Annotation (Ontology), Table Reprsentation(Content)</td>
   </tr>
@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td class="tg-c3ow">4</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.1093/bioinformatics/btr597"> MissForest—non-parametric missing value imputation for mixed-type data </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.1093/bioinformatics/btr597"> MissForest—non-parametric missing value imputation<br>for mixed-type data </a></td>
     <td class="tg-0pky">2012</td>
     <td class="tg-0pky">Table Representation(Content)</td>
   </tr>
@@ -41,7 +41,7 @@
   </tr>
   <tr>
     <td class="tg-c3ow">6</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.1145/2213836.2213848"> InfoGather: entity augmentation and attribute discovery by holistic matching with web tables </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.1145/2213836.2213848"> InfoGather: entity augmentation and attribute discovery<br>by holistic matching with web tables </a></td>
     <td class="tg-0pky">2012</td>
     <td class="tg-0pky">Table Simpification(Summariztion), Table Representation(Content+Metadata), <br>Table Indexing(Inverted index), Schema Matching(Textual+Meatadata)</td>
   </tr>
@@ -59,7 +59,7 @@
   </tr>
   <tr>
     <td class="tg-c3ow">9</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.1109/DSAA.2015.7344858"> Deep feature synthesis: Towards automating data science endeavors </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.1109/DSAA.2015.7344858"> Deep feature synthesis:<br>Towards automating data science endeavors </a></td>
     <td class="tg-0pky">2015</td>
     <td class="tg-0pky">Table Representation(Content)</td>
   </tr>
@@ -107,25 +107,25 @@
   </tr>
   <tr>
     <td class="tg-c3ow">17</td>
-    <td class="tg-0pky"><a href="https://proceedings.mlr.press/v80/yoon18a.html"> GAIN: Missing Data Imputation using Generative Adversarial Nets </a></td>
+    <td class="tg-0pky"><a href="https://proceedings.mlr.press/v80/yoon18a.html"> GAIN: Missing Data Imputation<br>using Generative Adversarial Nets </a></td>
     <td class="tg-0pky">2018</td>
     <td class="tg-0pky">Table Representation(Content)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">18</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.1145/3331184.3331333"> Table2Vec: Neural Word and Entity Embeddings for Table Population and Retrieval </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.1145/3331184.3331333"> Table2Vec: Neural Word and Entity Embeddings<br>for Table Population and Retrieval </a></td>
     <td class="tg-0pky">2019</td>
     <td class="tg-0pky">Table Representation(Content), Entity Matching(KB+DB)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">19</td>
-    <td class="tg-0pky"><a href="https://10.1145/3299869.3300065"> JOSIE: Overlap Set Similarity Search for Finding Joinable Tables in Data Lakes </a></td>
+    <td class="tg-0pky"><a href="https://10.1145/3299869.3300065"> JOSIE: Overlap Set Similarity Search for<br>Finding Joinable Tables in Data Lakes </a></td>
     <td class="tg-0pky">2019</td>
     <td class="tg-0pky">Table Representation(Content), Table Indexing(Inverted index)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">20</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.1145/3292500.3330993"> Sherlock: A Deep Learning Approach to Semantic Data Type Detection </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.1145/3292500.3330993"> Sherlock: A Deep Learning Approach to<br>Semantic Data Type Detection </a></td>
     <td class="tg-0pky">2019</td>
     <td class="tg-0pky">Table Annotation(Supervised-learning), Table Representation(Content)</td>
   </tr>
@@ -137,19 +137,19 @@
   </tr>
   <tr>
     <td class="tg-c3ow">22</td>
-    <td class="tg-0pky"><a href="https://proceedings.mlr.press/v97/mattei19a.html"> MIWAE: Deep Generative Modelling and Imputation of Incomplete Data Sets </a></td>
+    <td class="tg-0pky"><a href="https://proceedings.mlr.press/v97/mattei19a.html"> MIWAE: Deep Generative Modelling<br>and Imputation of Incomplete Data Sets </a></td>
     <td class="tg-0pky">2019</td>
     <td class="tg-0pky">Table Representation(Content)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">23</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.24963/ijcai.2019/287"> FakeTables: Using GANs to Generate Functional Dependency Preserving Tables with Bounded Real Data </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.24963/ijcai.2019/287"> FakeTables: Using GANs to Generate<br>Functional Dependency Preserving Tables<br>with Bounded Real Data </a></td>
     <td class="tg-0pky">2019</td>
     <td class="tg-0pky">Table Representation(Content)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">24</td>
-    <td class="tg-0pky"><a href="https://openreview.net/forum?id=S1zk9iRqF7"> PATE-GAN: Generating Synthetic Data with Differential Privacy Guarantees </a></td>
+    <td class="tg-0pky"><a href="https://openreview.net/forum?id=S1zk9iRqF7"> PATE-GAN: Generating Synthetic Data<br>with Differential Privacy Guarantees </a></td>
     <td class="tg-0pky">2019</td>
     <td class="tg-0pky">Table Representation(Content)</td>
   </tr>
@@ -161,7 +161,7 @@
   </tr>
   <tr>
     <td class="tg-c3ow">26</td>
-    <td class="tg-0pky"><a href="https://openreview.net/forum?id=S1lDV3RcKm"> MisGAN: Learning from Incomplete Data with Generative Adversarial Networks </a></td>
+    <td class="tg-0pky"><a href="https://openreview.net/forum?id=S1lDV3RcKm"> MisGAN: Learning from Incomplete Data<br>with Generative Adversarial Networks </a></td>
     <td class="tg-0pky">2019</td>
     <td class="tg-0pky">Table Representation(Content)</td>
   </tr>
@@ -179,13 +179,13 @@
   </tr>
   <tr>
     <td class="tg-c3ow">29</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.14778/3397230.3397235"> ARDA: automatic relational data augmentation for machine learning </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.14778/3397230.3397235"> ARDA: automatic relational data augmentation<br>for machine learning </a></td>
     <td class="tg-0pky">2020</td>
     <td class="tg-0pky">Error Handling(Explicit), Table Simplification(Sampling), Table Representation(Content)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">30</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.1145/3318464.3389742"> Creating Embeddings of Heterogeneous Relational Datasets for Data Integration Tasks </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.1145/3318464.3389742"> Creating Embeddings of Heterogeneous Relational Datasets<br>for Data Integration Tasks </a></td>
     <td class="tg-0pky">2020</td>
     <td class="tg-0pky">Error Handling(Explicit), Table Representation(Content+Context)</td>
   </tr>
@@ -209,7 +209,7 @@
   </tr>
   <tr>
     <td class="tg-c3ow">34</td>
-    <td class="tg-0pky"><a href="https://ieeexplore.ieee.org/document/9458717"> Efficient Joinable Table Discovery in Data Lakes: A High-Dimensional Similarity-Based Approach </a></td>
+    <td class="tg-0pky"><a href="https://ieeexplore.ieee.org/document/9458717"> Efficient Joinable Table Discovery in Data Lakes:<br>A High-Dimensional Similarity-Based Approach </a></td>
     <td class="tg-0pky">2021</td>
     <td class="tg-0pky">Error Handling (Implicit), Table Representation (Content), Table Indexing (Inverted index), Schema Matching (Textual)</td>
   </tr>
@@ -227,26 +227,26 @@
   </tr>
   <tr>
     <td class="tg-c3ow">37</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.1016/j.eswa.2021.114582"> Conditional Wasserstein GAN-based oversampling of tabular data for
+    <td class="tg-0pky"><a href="https://doi.org/10.1016/j.eswa.2021.114582"> Conditional Wasserstein GAN-based oversampling of tabular data<br>for
  imbalanced learning </a></td>
     <td class="tg-0pky">2021</td>
     <td class="tg-0pky">Table Representation(Content)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">38</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.5220/0010348103490356"> SIGRNN: Synthetic Minority Instances Generation in Imbalanced Datasets using a Recurrent Neural Network </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.5220/0010348103490356"> SIGRNN: Synthetic Minority Instances Generation<br>in Imbalanced Datasets using a Recurrent Neural Network </a></td>
     <td class="tg-0pky">2021</td>
     <td class="tg-0pky">Table Representation(Content)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">39</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.1109/ICMLA52953.2021.00131"> Multiple Imputation via Generative Adversarial Network for High-dimensional Blockwise Missing Value Problems </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.1109/ICMLA52953.2021.00131"> Multiple Imputation via Generative Adversarial Network<br>for High-dimensional Blockwise Missing Value Problems </a></td>
     <td class="tg-0pky">2021</td>
     <td class="tg-0pky">Table Representation(Content)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">40</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.1145/3514221.3517891"> Leva: Boosting Machine Learning Performance with Relational Embedding Data Augmentation </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.1145/3514221.3517891"> Leva: Boosting Machine Learning Performance<br>with Relational Embedding Data Augmentation </a></td>
     <td class="tg-0pky">2022</td>
     <td class="tg-0pky">Error Handling (Explicit), Table Representation (Content)</td>
   </tr>
@@ -318,7 +318,7 @@
   </tr>
   <tr>
     <td class="tg-c3ow">52</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.1145/3626766"> Watchog: A Light-weight Contrastive Learning based Framework for Column Annotation </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.1145/3626766"> Watchog: A Light-weight Contrastive Learning based Framework<br>for Column Annotation </a></td>
     <td class="tg-0pky">2023</td>
     <td class="tg-0pky">Error Handling (Implicit), Table Annotation (PLMs), Table Simplification (Summarization), <br>Table Representation (Content+Context+Metadata)</td>
   </tr>
@@ -336,7 +336,7 @@
   </tr>
   <tr>
     <td class="tg-c3ow">55</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.14778/3587136.3587146"> Semantics-Aware Dataset Discovery from Data Lakes with Contextualized Column-Based Representation Learning </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.14778/3587136.3587146"> Semantics-Aware Dataset Discovery from Data Lakes<br>with Contextualized Column-Based Representation Learning </a></td>
     <td class="tg-0pky">2023</td>
     <td class="tg-0pky">Error Handling (Implicit), Table Annotation (smallsetminus), Table Simplification (Sampling), <br>Table Representation (Content+Context), Table Indexing (LSH+HNSW), Schema Matching (Textual)</td>
   </tr>
@@ -379,31 +379,31 @@
   </tr>
   <tr>
     <td class="tg-c3ow">62</td>
-    <td class="tg-0pky"><a href="https://proceedings.mlr.press/v202/lee23i.html"> CoDi: Co-evolving Contrastive Diffusion Models for Mixed-type Tabular Synthesis </a></td>
+    <td class="tg-0pky"><a href="https://proceedings.mlr.press/v202/lee23i.html"> CoDi: Co-evolving Contrastive Diffusion Models<br>for Mixed-type Tabular Synthesis </a></td>
     <td class="tg-0pky">2023</td>
     <td class="tg-0pky">Table Representation(Content)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">63</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.48550/ARXIV.2210.17128"> Diffusion models for missing value imputation in tabular data </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.48550/ARXIV.2210.17128"> Diffusion models for missing value imputation<br>in tabular data </a></td>
     <td class="tg-0pky">2023</td>
     <td class="tg-0pky">Table Representation(Content)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">64</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.1109/ICDM58522.2023.00078"> Beyond Discrete Selection: Continuous Embedding Space Optimization for Generative Feature Selection </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.1109/ICDM58522.2023.00078"> Beyond Discrete Selection: Continuous Embedding Space Optimization<br>for Generative Feature Selection </a></td>
     <td class="tg-0pky">2023</td>
     <td class="tg-0pky">Table Representation(Content)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">65</td>
-    <td class="tg-0pky"><a href="https://papers.nips.cc/paper_files/paper/2023/hash/8797d13e5998acfab387d4bf0a5b9b00-Abstract-Conference.html"> Reinforcement-Enhanced Autoregressive Feature Transformation: Gradient-steered Search in Continuous Space for Postfix Expressions </a></td>
+    <td class="tg-0pky"><a href="https://papers.nips.cc/paper_files/paper/2023/hash/8797d13e5998acfab387d4bf0a5b9b00-Abstract-Conference.html"> Reinforcement-Enhanced Autoregressive Feature Transformation:<br>Gradient-steered Search in Continuous Space for Postfix Expressions </a></td>
     <td class="tg-0pky">2023</td>
     <td class="tg-0pky">Table Representation(Content)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">66</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.48786/EDBT.2025.07"> OmniMatch: Overcoming the Cold-Start Problem in Cross-Domain Recommendations using Auxiliary Reviews </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.48786/EDBT.2025.07"> OmniMatch: Overcoming the Cold-Start Problem<br>in Cross-Domain Recommendations using Auxiliary Reviews </a></td>
     <td class="tg-0pky">2024</td>
     <td class="tg-0pky">Error Handling(Implicit), Table Representation (Content), Table Navigation (Linkage graph)</td>
   </tr>
@@ -421,7 +421,7 @@
   </tr>
   <tr>
     <td class="tg-c3ow">69</td>
-    <td class="tg-0pky"><a href="https://www.cidrdb.org/cidr2024/papers/p72-lin.pdf"> SMARTFEAT:EfficientFeatureConstructionthrough Feature-LevelFoundationModelInteractions </a></td>
+    <td class="tg-0pky"><a href="https://www.cidrdb.org/cidr2024/papers/p72-lin.pdf"> SMARTFEAT:Efficient Feature Construction<br>through Feature-Level Foundation Model Interactions </a></td>
     <td class="tg-0pky">2024</td>
     <td class="tg-0pky">Error Handling(Implicit), Table Representation (Content+Context)</td>
   </tr>
