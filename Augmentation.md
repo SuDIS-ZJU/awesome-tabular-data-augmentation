@@ -114,6 +114,24 @@
 
 ###  Record Generation
 
+[SIGMOD'07] **Privacy, accuracy, and consistency too: a holistic solution to contingency table release**
+[[paper](https://doi.org/10.1145/1265530.1265569)]
+
+[SIGMOD'14] **PrivBayes: private data release via bayesian networks**
+[[paper](https://doi.org/10.1145/2588555.2588573)]
+
+[SIGMOD'12] **InfoGather: entity augmentation and attribute discovery by holistic matching with web tables**
+[[paper](https://doi.org/10.1145/2213836.2213848)]
+
+[SIGMOD'12] **InfoGather: entity augmentation and attribute discovery by holistic matching with web tables**
+[[paper](https://doi.org/10.1145/2213836.2213848)]
+
+[SIGMOD'12] **InfoGather: entity augmentation and attribute discovery by holistic matching with web tables**
+[[paper](https://doi.org/10.1145/2213836.2213848)]
+
+[SIGMOD'12] **InfoGather: entity augmentation and attribute discovery by holistic matching with web tables**
+[[paper](https://doi.org/10.1145/2213836.2213848)]
+
 ###  Feature Construction
 
 ###  Cell Imputation
