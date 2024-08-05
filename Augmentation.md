@@ -7,7 +7,7 @@
 
 ###  Entity Augmentation
 
-[SIGMOD'12] **InfoGather: entity augmentation and attribute discovery<br>by holistic matching with web tables**
+[SIGMOD'12] **InfoGather: entity augmentation and attribute discovery by holistic matching with web tables**
 [[paper](https://doi.org/10.1145/2213836.2213848)]
 
 [VLDB'18] **Table union search on open data.**
@@ -75,7 +75,40 @@
 
 ###  Cell Completion
 
+[SIGMOD'12] **InfoGather: entity augmentation and attribute discovery by holistic matching with web tables**
+[[paper](https://doi.org/10.1145/2213836.2213848)]
+
+[SIGIR'17] **EntiTables: Smart Assistance for Entity-Focused Tables**
+[[paper](https://doi.org/10.18653/v1/2023.findings-acl.348)]
+
+[ACL'23] **Retrieval-Based Transformer for Table Augmentation**
+[[paper](https://doi.org/10.18653/v1/2023.findings-acl.348)]
+
+[SIGMOD'22] **TURL:TableUnderstanding through Representation Learning**
+[[paper](https://doi.org/10.1145/3542700.3542709)]
+
+[BDC'15] **Towards a Hybrid Imputation Approach Using Web Tables**
+[[paper](https://doi.org/10.1109/BDC.2015.38)]
+
+[CIKM'19] **Auto-completion for Data Cells in Relational Tables**
+[[paper](https://doi.org/10.1145/3357384.3357932)]
+
 ###  Table Integration
+
+[SIGMOD'12] **InfoGather: entity augmentation and attribute discovery by holistic matching with web tables**
+[[paper](https://doi.org/10.1145/2213836.2213848)]
+
+[SIGIR'17] **EntiTables: Smart Assistance for Entity-Focused Tables**
+[[paper](https://doi.org/10.18653/v1/2023.findings-acl.348)]
+
+[ACL'23] **Retrieval-Based Transformer for Table Augmentation**
+[[paper](https://doi.org/10.18653/v1/2023.findings-acl.348)]
+
+[VLDB'22] **Integrating Data Lake Tables**
+[[paper](https://doi.org/10.14778/3574245.3574274)]
+
+[SIGMOD'22] **Leva: Boosting Machine Learning Performance with Relational Embedding DataAugmentation**
+[[paper](https://doi.org/10.1145/3514221.3517891)]
 
 ##  Generation-based
 
