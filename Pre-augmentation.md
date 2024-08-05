@@ -246,187 +246,188 @@
   </tr>
   <tr>
     <td class="tg-c3ow">40</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.1145/3514221.3517891"> Leva </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.1145/3514221.3517891"> Leva: Boosting Machine Learning Performance with Relational Embedding Data Augmentation </a></td>
     <td class="tg-0pky">2022</td>
     <td class="tg-0pky">Error Handling (Explicit), Table Representation (Content)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">41</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.14778/3529337.3529353"> MATE </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.14778/3529337.3529353"> MATE: multi-attribute table extraction </a></td>
     <td class="tg-0pky">2022</td>
     <td class="tg-0pky">Table Representation (Content), Table Indexing (Inverted index)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">42</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.14778/3574245.3574274"> ALITE </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.14778/3574245.3574274"> Integrating Data Lake Tables </a></td>
     <td class="tg-0pky">2022</td>
     <td class="tg-0pky">Table Annotation (PLMs), Table Representation (Content), Table Navigation (Clustering)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">43</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.1109/ICDE53745.2022.00317"> AutoFeature </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.1109/ICDE53745.2022.00317"> Feature Augmentation with Reinforcement Learning </a></td>
     <td class="tg-0pky">2022</td>
     <td class="tg-0pky">Table Simplification (Sampling), Table Representation (Content)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">44</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.14778/3523210.3523223"> Chai et al. </a> </td>
+    <td class="tg-0pky"><a href="https://doi.org/10.14778/3523210.3523223"> Selective data acquisition in the wild for model charging </a> </td>
     <td class="tg-0pky">2022</td>
     <td class="tg-0pky">Table Representation (Content), Table Navigation (Clustering)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">45</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.1109/ICDE53745.2022.00264"> Santos et al. </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.1109/ICDE53745.2022.00264"> A Sketch-based Index for Correlated Dataset Search </a></td>
     <td class="tg-0pky">2022</td>
     <td class="tg-0pky">Table Representation(Content), Table Navigation(Linkage graph), Schema Matching(Numerical)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">46</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.1145/3485447.3511972"> StruBERT </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.1145/3485447.3511972"> StruBERT: Structure-aware BERT for Table Search and Matching </a></td>
     <td class="tg-0pky">2022</td>
     <td class="tg-0pky">Table Representation(Content)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">47</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.1145/3542700.3542709"> TURL </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.1145/3542700.3542709"> TURL: Table Understanding through Representation Learning </a></td>
     <td class="tg-0pky">2022</td>
     <td class="tg-0pky">Error Handling (Implicit), Table Simplification (Summarization), Table Representation (Content+Context+Metadata)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">48</td>
-    <td class="tg-0pky"><a href="Nargesian et al."> Nargesian et al. </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.1109/TKDE.2021.3091101"> Data Lake Organization </a></td>
     <td class="tg-0pky">2022</td>
     <td class="tg-0pky">Table Representation (Content), Table Navigation (Linkage graph)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">49</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.1145/3514221.3517906"> Doduo </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.1145/3514221.3517906"> Annotating Columns with Pre-trained Language Models </a></td>
     <td class="tg-0pky">2022</td>
     <td class="tg-0pky">Table Annotation (PLMs), Table Representation (Content+Context)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">50</td>
-    <td class="tg-0pky"><a href="https://papers.nips.cc/paper_files/paper/2022/hash/1377f76686d56439a2bd7a91859972f5-Abstract-Conference.html"> TransTab </a></td>
+    <td class="tg-0pky"><a href="https://papers.nips.cc/paper_files/paper/2022/hash/1377f76686d56439a2bd7a91859972f5-Abstract-Conference.html"> TransTab: Learning Transferable Tabular Transformers Across Tables </a></td>
     <td class="tg-0pky">2022</td>
     <td class="tg-0pky">Table Representation (Content), Table Navigation (Linkage graph)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">51</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.1145/3534678.3539454"> SOS </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.1145/3534678.3539454"> SOS: Score-based Oversampling for Tabular Data </a></td>
     <td class="tg-0pky">2022</td>
     <td class="tg-0pky">Table Representation(Content)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">52</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.1145/3626766"> Watchog </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.1145/3626766"> Watchog: A Light-weight Contrastive Learning based Framework for Column Annotation </a></td>
     <td class="tg-0pky">2023</td>
     <td class="tg-0pky">Error Handling (Implicit), Table Annotation (PLMs), Table Simplification (Summarization), <br>Table Representation (Content+Context+Metadata)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">53</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.14778/3603581.3603587"> DeepJoin </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.14778/3603581.3603587"> DeepJoin: Joinable Table Discovery with Pre-Trained Language Models </a></td>
     <td class="tg-0pky">2023</td>
     <td class="tg-0pky">Error Handling (Implicit), Table Simplification (Sampling), Table Representation (Content),<br> Table Indexing (HNSW), Schema Matching (Textual)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">54</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.1145/3588689"> SANTOS </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.1145/3588689"> SANTOS: Relationship-based Semantic Table Union Search </a></td>
     <td class="tg-0pky">2023</td>
     <td class="tg-0pky">Error Handling (Implicit), Table Annotation (Supervised-learning), Table Simplification (smallsetminus), <br>Table Representation (Content+Context), Table Indexing (Inverted index), Schema Matching (Textual)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">55</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.14778/3587136.3587146"> Starmie </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.14778/3587136.3587146"> Semantics-Aware Dataset Discovery from Data Lakes with Contextualized Column-Based Representation Learning </a></td>
     <td class="tg-0pky">2023</td>
     <td class="tg-0pky">Error Handling (Implicit), Table Annotation (smallsetminus), Table Simplification (Sampling), <br>Table Representation (Content+Context), Table Indexing (LSH+HNSW), Schema Matching (Textual)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">56</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.18653/v1/2023.findings-acl.233"> AUTOTUS </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.18653/v1/2023.findings-acl.233"> Automatic Table Union Search with Tabular Representation Learning </a></td>
     <td class="tg-0pky">2023</td>
     <td class="tg-0pky">Error Handling (Implicit), Table Simplification (Sampling), Table Representation (Content+Context)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">57</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.18653/v1/2023.findings-acl.348"> RADA </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.18653/v1/2023.findings-acl.348"> Retrieval-Based Transformer for Table Augmentation </a></td>
     <td class="tg-0pky">2023</td>
     <td class="tg-0pky">Error Handling (Implicit), Table Representation (Content+Context+Metadata)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">58</td>
-    <td class="tg-0pky"><a href="https://papers.nips.cc/paper_files/paper/2023/hash/66178beae8f12fcd48699de95acc1152-Abstract-Conference.html"> HYTREL </a></td>
+    <td class="tg-0pky"><a href="https://papers.nips.cc/paper_files/paper/2023/hash/66178beae8f12fcd48699de95acc1152-Abstract-Conference.html"> HyTrel: Hypergraph-enhanced Tabular Data Representation Learning </a></td>
     <td class="tg-0pky">2023</td>
     <td class="tg-0pky">Error Handling (Implicit), Table Representation (Content+Context)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">59</td>
-    <td class="tg-0pky"><a href="https://openreview.net/pdf?id=fPVRcJqspu"> GOGGLE </a></td>
+    <td class="tg-0pky"><a href="https://openreview.net/pdf?id=fPVRcJqspu"> GOGGLE: GENERATIVE MODELLING FOR TABULAR
+ DATA BY LEARNING RELATIONAL STRUCTURE </a></td>
     <td class="tg-0pky">2023</td>
     <td class="tg-0pky">Table Representation (Content+Context)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">60</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.1007/s10115-023-01834-5"> GANBLR </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.1007/s10115-023-01834-5"> Interpretable tabular data generation </a></td>
     <td class="tg-0pky">2023</td>
     <td class="tg-0pky">Table Representation(Content)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">61</td>
-    <td class="tg-0pky"><a href="https://openreview.net/pdf?id=1mNssCWt_v"> STaSY </a></td>
+    <td class="tg-0pky"><a href="https://openreview.net/pdf?id=1mNssCWt_v"> STASY: SCORE-BASED TABULAR DATA SYNTHESIS </a></td>
     <td class="tg-0pky">2023</td>
     <td class="tg-0pky">Table Representation(Content)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">62</td>
-    <td class="tg-0pky"><a href="https://proceedings.mlr.press/v202/lee23i.html"> CoDi </a></td>
+    <td class="tg-0pky"><a href="https://proceedings.mlr.press/v202/lee23i.html"> CoDi: Co-evolving Contrastive Diffusion Models for Mixed-type Tabular Synthesis </a></td>
     <td class="tg-0pky">2023</td>
     <td class="tg-0pky">Table Representation(Content)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">63</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.48550/ARXIV.2210.17128"> TabCSDI </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.48550/ARXIV.2210.17128"> Diffusion models for missing value imputation in tabular data </a></td>
     <td class="tg-0pky">2023</td>
     <td class="tg-0pky">Table Representation(Content)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">64</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.1109/ICDM58522.2023.00078"> GAINS </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.1109/ICDM58522.2023.00078"> Beyond Discrete Selection: Continuous Embedding Space Optimization for Generative Feature Selection </a></td>
     <td class="tg-0pky">2023</td>
     <td class="tg-0pky">Table Representation(Content)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">65</td>
-    <td class="tg-0pky"><a href="https://papers.nips.cc/paper_files/paper/2023/hash/8797d13e5998acfab387d4bf0a5b9b00-Abstract-Conference.html"> MOAT </a></td>
+    <td class="tg-0pky"><a href="https://papers.nips.cc/paper_files/paper/2023/hash/8797d13e5998acfab387d4bf0a5b9b00-Abstract-Conference.html"> Reinforcement-Enhanced Autoregressive Feature Transformation: Gradient-steered Search in Continuous Space for Postfix Expressions </a></td>
     <td class="tg-0pky">2023</td>
     <td class="tg-0pky">Table Representation(Content)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">66</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.48786/EDBT.2025.07"> OmniMatch </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.48786/EDBT.2025.07"> OmniMatch: Overcoming the Cold-Start Problem in Cross-Domain Recommendations using Auxiliary Reviews </a></td>
     <td class="tg-0pky">2024</td>
     <td class="tg-0pky">Error Handling(Implicit), Table Representation (Content), Table Navigation (Linkage graph)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">67</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.48550/ARXIV.2406.09534"> FeatNavigator </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.48550/ARXIV.2406.09534"> FeatNavigator: Automatic Feature Augmentation on Tabular Data </a></td>
     <td class="tg-0pky">2024</td>
     <td class="tg-0pky">Error Handling(Implicit), Table Representation (Content)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">68</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.1145/3639283"> RelDDPM </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.1145/3639283"> Controllable Tabular Data Synthesis Using Diffusion Models </a></td>
     <td class="tg-0pky">2024</td>
     <td class="tg-0pky">Table Representation(Content)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">69</td>
-    <td class="tg-0pky"><a href="https://www.cidrdb.org/cidr2024/papers/p72-lin.pdf"> SMARTFEAT </a></td>
+    <td class="tg-0pky"><a href="https://www.cidrdb.org/cidr2024/papers/p72-lin.pdf"> SMARTFEAT:EfficientFeatureConstructionthrough Feature-LevelFoundationModelInteractions </a></td>
     <td class="tg-0pky">2024</td>
     <td class="tg-0pky">Error Handling(Implicit), Table Representation (Content+Context)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">70</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.48550/ARXIV.2406.01457"> DP-LLMTGen </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.48550/ARXIV.2406.01457"> Differentially Private Tabular Data Synthesis using Large Language Models </a></td>
     <td class="tg-0pky">2024</td>
     <td class="tg-0pky">Error Handling(Implicit), Table Representation (Content)</td>
   </tr>
