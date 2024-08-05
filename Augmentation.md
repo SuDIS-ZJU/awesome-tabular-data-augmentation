@@ -7,9 +7,71 @@
 
 ###  Entity Augmentation
 
+[SIGMOD'12] **InfoGather: entity augmentation and attribute discovery<br>by holistic matching with web tables**
+[[paper](https://doi.org/10.1145/2213836.2213848)]
 
+[VLDB'18] **Table union search on open data.**
+[[paper](https://doi.org/10.14778/3192965.3192973)]
+
+[ICDE'20] **Dataset Discovery in Data Lakes**
+[[paper](https://doi.org/10.1109/ICDE48307.2020.00067)]
+
+[SIGMOD'12] **Finding related tables**
+[[paper](https://doi.org/10.1145/2213836.2213962)]
+
+[SIGIR'17] **EntiTables: Smart Assistance for Entity-Focused Tables**
+[[paper](https://doi.org/10.1145/3077136.3080796)]
+
+[SIGIR'19] **Table2Vec: Neural Word and Entity Embeddings for Table Population and Retrieval**
+[[paper](https://doi.org/10.1145/3331184.3331333)]
+
+[SIGMOD'23] **SANTOS: Relationship-based Semantic Table Union Searchtaset Discovery from Data Lakes with Contextualized Column-based Representation Learning**
+[[paper](https://dl.acm.org/doi/10.1145/3588689)]
+[[official code](https://github.com/northeastern-datalab/santos)]
+
+[SIGMOD'20] **Creating Embeddings of Heterogeneous Relational Datasets for Data Integration Tasks**
+[[paper](https://doi.org/10.1145/3318464.3389742)]
+
+[NIPS'23] **HyTrel: Hypergraph-enhanced Tabular Data Representation Learning**
+[[paper](https://papers.nips.cc/paper_files/paper/2023/hash/66178beae8f12fcd48699de95acc1152-Abstract-Conference.html)]
+
+[VLDB'23] **Semantics-aware Dataset Discovery from Data Lakes with Contextualized Column-based Representation Learning.**
+[[paper](https://doi.org/10.14778/3587136.3587146)]
+
+[ACL'23] **Automatic Table Union Search with Tabular Representation Learning**
+[[paper](https://doi.org/10.18653/v1/2023.findings-acl.233)]
 
 ###  Schema Augmentation
+
+[VLDB'16] **LSH ensemble: internet-scale domain search**
+[[paper](https://doi.org/10.14778/2994509.2994534)]
+
+[SIGMOD'19] **JOSIE: Overlap Set Similarity Search for Finding Joinable Tables in Data Lakes.**
+[[paper](https://doi.org/10.1145/3299869.3300065)]
+
+[VLDB'20] **ARDA: automatic relational data augmentation for machine learning**
+[[paper](https://doi.org/10.14778/3397230.3397235)]
+
+[SIGMOD'20] **Feature Augmentation with Reinforcement Learning**
+[[paper](https://doi.org/10.1109/ICDE53745.2022.00317)]
+
+[CoRR'24] **FeatNavigator: Automatic Feature Augmentation on Tabular Data**
+[[paper](https://doi.org/10.48550/ARXIV.2406.09534)]
+
+[ICDE'21] **Efficient Joinable Table Discovery in Data Lakes: A High-Dimensional Similarity-Based Approach.**
+[[paper](https://doi.org/10.1109/ICDE51399.2021.00046)]
+
+[VLDB'23] **DeepJoin: Joinable Table Discovery with Pre-Trained Language Models**
+[[paper](https://doi.org/10.14778/3603581.3603587)]
+
+[EDBT'24] **OmniMatch:OvercomingtheCold-StartProblem in Cross-Domain Recommendations using Auxiliary Reviews.**
+[[paper](https://doi.org/10.48786/EDBT.2025.07)]
+
+[SIGMOD'20] **Creating Embeddings of Heterogeneous Relational Datasets for Data Integration Tasks**
+[[paper](https://doi.org/10.1145/3318464.3389742)]
+
+[SIGMOD'22] **Leva: Boosting Machine Learning Performance with Relational Embedding DataAugmentation**
+[[paper](https://doi.org/10.1145/3514221.3517891)]
 
 ###  Cell Completion
 
