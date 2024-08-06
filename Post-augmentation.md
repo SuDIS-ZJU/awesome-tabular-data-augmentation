@@ -1,7 +1,5 @@
 # :hammer: Post-augmentation
 
-![Sources](Figures/TDA_taxonomy.png)
-
 ## :mag_right: Evaluation Polices
 
 ###  Original-table-based evaluation
