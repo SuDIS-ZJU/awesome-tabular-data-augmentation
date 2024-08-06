@@ -3,7 +3,7 @@
 
 ![Sources](Figures/TDA_taxonomy.png)
 
-##  Retrieval-based
+## :mag_right: Retrieval-based
 
 ###  Entity Augmentation
 
@@ -110,7 +110,7 @@
 [SIGMOD'22] **Leva: Boosting Machine Learning Performance with Relational Embedding DataAugmentation**
 [[paper](https://doi.org/10.1145/3514221.3517891)]
 
-##  Generation-based
+## :wrench: Generation-based
 
 ###  Record Generation
 
