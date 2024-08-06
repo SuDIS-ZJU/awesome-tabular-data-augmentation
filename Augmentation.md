@@ -52,7 +52,7 @@
 [VLDB'20] **ARDA: automatic relational data augmentation for machine learning**
 [[paper](https://doi.org/10.14778/3397230.3397235)]
 
-[SIGMOD'20] **Feature Augmentation with Reinforcement Learning**
+[ICDE'22] **Feature Augmentation with Reinforcement Learning**
 [[paper](https://doi.org/10.1109/ICDE53745.2022.00317)]
 
 [CoRR'24] **FeatNavigator: Automatic Feature Augmentation on Tabular Data**
