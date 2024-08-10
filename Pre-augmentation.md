@@ -13,13 +13,13 @@
     <td class="tg-c3ow">1</td>
     <td class="tg-0pky"><a href="https://doi.org/10.14778/1920841.1921005"> Annotating and searching web tables<br>using entities, types and relationships </a></td>
     <td class="tg-0pky">2010</td>
-    <td class="tg-0pky">Table Annotation (Ontology), Table Reprsentation(Content)</td>
+    <td class="tg-0pky">Table Annotation (Ontology), Table Representation(Content)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">2</td>
     <td class="tg-0pky"><a href="https://doi.org/10.14778/2002938.2002939"> Recovering semantics of tables on the web</a></td>
     <td class="tg-0pky">2011</td>
-    <td class="tg-0pky">Table Annotation (Ontology), Table Reprsentation(Content), Schema Matching(Textual)</td>
+    <td class="tg-0pky">Table Annotation (Ontology), Table Representation(Content), Schema Matching(Textual)</td>
   </tr>
   <tr>
     <td class="tg-c3ow">3</td>
