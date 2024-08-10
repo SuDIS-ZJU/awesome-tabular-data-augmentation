@@ -155,7 +155,7 @@
 [IJCAI'19] **FakeTables: Using GANs to Generate Functional Dependency Preserving Tables with Bounded Real Data**
 [[paper](https://doi.org/10.24963/ijcai.2019/287)]
 
-###  Model-basedevaluation
+###  Model-based evaluation
 
 [VLDB'22] **Selective data acquisition in the wild for model charging**
 [[paper](https://doi.org/10.14778/3523210.3523223)]
