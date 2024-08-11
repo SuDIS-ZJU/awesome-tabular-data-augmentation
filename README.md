@@ -204,7 +204,7 @@ Overview of pre-augmentation tasks. The table contains a non-exhaustive list of 
     <td class="tg-c3ow">25</td>
     <td class="tg-0pky"><a href="https://proceedings.neurips.cc/paper/2019/hash/254ed7d2de3b23ab10936522dd547b78-Abstract.html"> Modeling Tabular data using Conditional GAN </a></td>
     <td class="tg-0pky">2019</td>
-    <td class="tg-c3ow">Neurips</td>
+    <td class="tg-c3ow">Nips</td>
     <td class="tg-0pky">Table Representation(Content)</td>
   </tr>
   <tr>
@@ -273,8 +273,8 @@ Overview of pre-augmentation tasks. The table contains a non-exhaustive list of 
   <tr>
     <td class="tg-c3ow">35</td>
     <td class="tg-0pky"><a href="https://doi.org/10.14778/3476311.3476333"> Automatic data acquisition for deep learning </a></td>
-    <td class="tg-0pky">VLDB</td>
-    <td class="tg-c3ow">Publication</td>
+    <td class="tg-0pky">2021</td>
+    <td class="tg-c3ow">VLDB</td>
     <td class="tg-0pky">Table Representation(Content)</td>
   </tr>
   <tr>
