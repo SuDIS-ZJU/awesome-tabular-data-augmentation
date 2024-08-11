@@ -560,19 +560,23 @@ The categorization of the TDA approaches, from both task-oriented and table-leve
 
 [SIGIR'19] **Table2Vec: Neural Word and Entity Embeddings for Table Population and Retrieval**
 [[paper](https://doi.org/10.1145/3331184.3331333)]
+[[code](https://github.com/ninalx/table2vec-lideng)]
 
 [SIGMOD'23] **SANTOS: Relationship-based Semantic Table Union Searchtaset Discovery from Data Lakes with Contextualized Column-based Representation Learning**
 [[paper](https://dl.acm.org/doi/10.1145/3588689)]
-[[official code](https://github.com/northeastern-datalab/santos)]
+[[code](https://github.com/northeastern-datalab/santos)]
 
 [SIGMOD'20] **Creating Embeddings of Heterogeneous Relational Datasets for Data Integration Tasks**
 [[paper](https://doi.org/10.1145/3318464.3389742)]
+[[code](https://gitlab.eurecom.fr/cappuzzo/embdi)]
 
 [NIPS'23] **HyTrel: Hypergraph-enhanced Tabular Data Representation Learning**
 [[paper](https://papers.nips.cc/paper_files/paper/2023/hash/66178beae8f12fcd48699de95acc1152-Abstract-Conference.html)]
+[[code](https://github.com/brickee/HyTrel)]
 
 [VLDB'23] **Semantics-aware Dataset Discovery from Data Lakes with Contextualized Column-based Representation Learning.**
 [[paper](https://doi.org/10.14778/3587136.3587146)]
+[[code](https://github.com/megagonlabs/starmie)]
 
 [ACL'23] **Automatic Table Union Search with Tabular Representation Learning**
 [[paper](https://doi.org/10.18653/v1/2023.findings-acl.233)]
@@ -581,9 +585,11 @@ The categorization of the TDA approaches, from both task-oriented and table-leve
 
 [VLDB'16] **LSH ensemble: internet-scale domain search**
 [[paper](https://doi.org/10.14778/2994509.2994534)]
+[[code](https://github.com/ebtelmarz/big_data_lsh_ensemble)]
 
 [SIGMOD'19] **JOSIE: Overlap Set Similarity Search for Finding Joinable Tables in Data Lakes.**
 [[paper](https://doi.org/10.1145/3299869.3300065)]
+[[code](https://github.com/ekzhu/josie)]
 
 [VLDB'20] **ARDA: automatic relational data augmentation for machine learning**
 [[paper](https://doi.org/10.14778/3397230.3397235)]
@@ -594,7 +600,7 @@ The categorization of the TDA approaches, from both task-oriented and table-leve
 [CoRR'24] **FeatNavigator: Automatic Feature Augmentation on Tabular Data**
 [[paper](https://doi.org/10.48550/ARXIV.2406.09534)]
 
-[ICDE'21] **Efficient Joinable Table Discovery in Data Lakes: A High-Dimensional Similarity-Based Approach.**
+[ICDE'21] **Efficient Joinable Table Discovery in Data Lakes: A High-Dimensional Similarity-Based Approach**
 [[paper](https://doi.org/10.1109/ICDE51399.2021.00046)]
 
 [VLDB'23] **DeepJoin: Joinable Table Discovery with Pre-Trained Language Models**
@@ -605,6 +611,7 @@ The categorization of the TDA approaches, from both task-oriented and table-leve
 
 [SIGMOD'20] **Creating Embeddings of Heterogeneous Relational Datasets for Data Integration Tasks**
 [[paper](https://doi.org/10.1145/3318464.3389742)]
+[[code](https://gitlab.eurecom.fr/cappuzzo/embdi)]
 
 [SIGMOD'22] **Leva: Boosting Machine Learning Performance with Relational Embedding DataAugmentation**
 [[paper](https://doi.org/10.1145/3514221.3517891)]
@@ -620,7 +627,7 @@ The categorization of the TDA approaches, from both task-oriented and table-leve
 [ACL'23] **Retrieval-Based Transformer for Table Augmentation**
 [[paper](https://doi.org/10.18653/v1/2023.findings-acl.348)]
 
-[SIGMOD'22] **TURL:TableUnderstanding through Representation Learning**
+[SIGMOD'22] **TURL:Table Understanding through Representation Learning**
 [[paper](https://doi.org/10.1145/3542700.3542709)]
 
 [BDC'15] **Towards a Hybrid Imputation Approach Using Web Tables**
