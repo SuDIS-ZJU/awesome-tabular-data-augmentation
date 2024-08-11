@@ -556,6 +556,7 @@ The categorization of the TDA approaches, from both task-oriented and table-leve
 
 [SIGIR'17] **EntiTables: Smart Assistance for Entity-Focused Tables**
 [[paper](https://doi.org/10.1145/3077136.3080796)]
+[[code](https://github.com/iai-group/sigir2017-table)]
 
 [SIGIR'19] **Table2Vec: Neural Word and Entity Embeddings for Table Population and Retrieval**
 [[paper](https://doi.org/10.1145/3331184.3331333)]
