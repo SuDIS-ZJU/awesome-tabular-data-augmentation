@@ -11,6 +11,7 @@ Checkout the latest version of the paper at [Arxiv](https://arxiv.org/abs/2407.2
 ![Sources](Figures/TDA_scenario.png)
 
 ## TDA pipeline
+The overview of TDA pipeline and the task-based taxonomy for TDA approaches. The input and output of the TDA pipeline are the original table $T^O$ and the augmented table $T^A$, respectively. The TDA pipeline comprises three main procedures: **pre-augmentation**, **augmentation**, and **post-augmentation**.
 ![Sources](Figures/TDA_pipeline.png)
 
 ## Pre-augmentation <a href="Pre-augmentation.md"> :fast_forward: </a>
