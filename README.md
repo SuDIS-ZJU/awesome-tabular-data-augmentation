@@ -460,8 +460,11 @@ The illustration of different TDA scenarios and their suited pre-augmentation ta
 ![Sources](Figures/Pre-augmentation_for_different_scenarios.png)
 
 ## Augmentation <a href="Augmentation.md"> :fast_forward: </a>
+Overview of the TDA tasks. The superscripts R and G indicate the TDA task is whether retrieval-based and generation-based, respectively.
+
 ![Sources](Figures/Augmentation_tasks.png)
 
+The categorization of the TDA approaches, from both task-oriented and table-level perspectives. We also provide a concise introduction to the key TDA techniques within each category.
 ![Sources](Figures/TDA_taxonomy.png)
 
 ## :mag_right: Retrieval-based
@@ -668,6 +671,8 @@ The illustration of different TDA scenarios and their suited pre-augmentation ta
 ## Post-augmentation <a href="Post-augmentation.md"> :fast_forward: </a>
 
 ## :date: TDA Datasets
+
+Representative datasets used in TDA studies, including their basic properties and the specific TDA tasks they are suitable for.
 
 <table class="tg"><thead>
   <tr>
