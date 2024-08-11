@@ -7,6 +7,7 @@ Checkout the latest version of the paper at [Arxiv](https://arxiv.org/abs/2407.2
 **This content is a work in progress and will be continuously updated. Stay tuned!**
 
 ## An example of TDA for ML
+① A data scientist aims to predict house prices based on factors like location and floor using an original training set ($T^O$) with limited features and records. The initial ML model yields sub-optimal results due to insufficient data and numerous missing or incorrect values. To improve performance, the scientist uses TDA to augment the original dataset with additional attributes (columns), records (rows), and corrected values (cells). ② Before augmentation, preparation steps, such as table annotation (e.g., recovering the missing column type of the 4th column in $T^O$), enhance the TDA process's effectiveness. ③ Augmentation can be achieved through retrieval-based methods (e.g., integrating the 2nd row in $T^C_1$ from external data source) or generation-based methods that synthesize new data. ④ The augmented table ($T^A$) combines the original and new data. ⑤ After augmentation, evaluation steps evaluate the effectiveness of TDA process. ⑥ Finally, the result-TDA table enable the scientist to train a more accurate price prediction model.
 ![Sources](Figures/TDA_scenario.png)
 
 ## TDA pipeline
