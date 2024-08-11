@@ -21,6 +21,8 @@ In the TDA pipeline, pre-augmentation encompasses preparation tasks to facilitat
 
 ![Sources](Figures/Pre-augmentation_tasks.png)
 
+Overview of pre-augmentation tasks. The table contains a non-exhaustive list of representative TDA-related works (arranged in chronological order) and the corresponding pre-augmentation tasks they involve.
+
 <table class="tg"><thead>
   <tr>
     <th class="tg-c3ow">No.</th>
