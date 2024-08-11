@@ -1,6 +1,7 @@
 
 # :sparkles: Augmentation
 
+The categorization of the TDA approaches, from both task-oriented and table-level perspectives. We also provide a concise introduction to the key TDA techniques within each category.
 ![Sources](Figures/TDA_taxonomy.png)
 
 ## :mag_right: Retrieval-based
@@ -21,22 +22,27 @@
 
 [SIGIR'17] **EntiTables: Smart Assistance for Entity-Focused Tables**
 [[paper](https://doi.org/10.1145/3077136.3080796)]
+[[code](https://github.com/iai-group/sigir2017-table)]
 
 [SIGIR'19] **Table2Vec: Neural Word and Entity Embeddings for Table Population and Retrieval**
 [[paper](https://doi.org/10.1145/3331184.3331333)]
+[[code](https://github.com/ninalx/table2vec-lideng)]
 
 [SIGMOD'23] **SANTOS: Relationship-based Semantic Table Union Searchtaset Discovery from Data Lakes with Contextualized Column-based Representation Learning**
 [[paper](https://dl.acm.org/doi/10.1145/3588689)]
-[[official code](https://github.com/northeastern-datalab/santos)]
+[[code](https://github.com/northeastern-datalab/santos)]
 
 [SIGMOD'20] **Creating Embeddings of Heterogeneous Relational Datasets for Data Integration Tasks**
 [[paper](https://doi.org/10.1145/3318464.3389742)]
+[[code](https://gitlab.eurecom.fr/cappuzzo/embdi)]
 
 [NIPS'23] **HyTrel: Hypergraph-enhanced Tabular Data Representation Learning**
 [[paper](https://papers.nips.cc/paper_files/paper/2023/hash/66178beae8f12fcd48699de95acc1152-Abstract-Conference.html)]
+[[code](https://github.com/brickee/HyTrel)]
 
 [VLDB'23] **Semantics-aware Dataset Discovery from Data Lakes with Contextualized Column-based Representation Learning.**
 [[paper](https://doi.org/10.14778/3587136.3587146)]
+[[code](https://github.com/megagonlabs/starmie)]
 
 [ACL'23] **Automatic Table Union Search with Tabular Representation Learning**
 [[paper](https://doi.org/10.18653/v1/2023.findings-acl.233)]
@@ -45,9 +51,11 @@
 
 [VLDB'16] **LSH ensemble: internet-scale domain search**
 [[paper](https://doi.org/10.14778/2994509.2994534)]
+[[code](https://github.com/ebtelmarz/big_data_lsh_ensemble)]
 
 [SIGMOD'19] **JOSIE: Overlap Set Similarity Search for Finding Joinable Tables in Data Lakes.**
 [[paper](https://doi.org/10.1145/3299869.3300065)]
+[[code](https://github.com/ekzhu/josie)]
 
 [VLDB'20] **ARDA: automatic relational data augmentation for machine learning**
 [[paper](https://doi.org/10.14778/3397230.3397235)]
@@ -58,7 +66,7 @@
 [CoRR'24] **FeatNavigator: Automatic Feature Augmentation on Tabular Data**
 [[paper](https://doi.org/10.48550/ARXIV.2406.09534)]
 
-[ICDE'21] **Efficient Joinable Table Discovery in Data Lakes: A High-Dimensional Similarity-Based Approach.**
+[ICDE'21] **Efficient Joinable Table Discovery in Data Lakes: A High-Dimensional Similarity-Based Approach**
 [[paper](https://doi.org/10.1109/ICDE51399.2021.00046)]
 
 [VLDB'23] **DeepJoin: Joinable Table Discovery with Pre-Trained Language Models**
@@ -69,6 +77,7 @@
 
 [SIGMOD'20] **Creating Embeddings of Heterogeneous Relational Datasets for Data Integration Tasks**
 [[paper](https://doi.org/10.1145/3318464.3389742)]
+[[code](https://gitlab.eurecom.fr/cappuzzo/embdi)]
 
 [SIGMOD'22] **Leva: Boosting Machine Learning Performance with Relational Embedding DataAugmentation**
 [[paper](https://doi.org/10.1145/3514221.3517891)]
@@ -80,12 +89,14 @@
 
 [SIGIR'17] **EntiTables: Smart Assistance for Entity-Focused Tables**
 [[paper](https://doi.org/10.18653/v1/2023.findings-acl.348)]
+[[code](https://github.com/iai-group/sigir2017-table)]
 
 [ACL'23] **Retrieval-Based Transformer for Table Augmentation**
 [[paper](https://doi.org/10.18653/v1/2023.findings-acl.348)]
 
-[SIGMOD'22] **TURL:TableUnderstanding through Representation Learning**
+[SIGMOD'22] **TURL:Table Understanding through Representation Learning**
 [[paper](https://doi.org/10.1145/3542700.3542709)]
+[[code](https://github.com/sunlab-osu/TURL)]
 
 [BDC'15] **Towards a Hybrid Imputation Approach Using Web Tables**
 [[paper](https://doi.org/10.1109/BDC.2015.38)]
@@ -100,12 +111,14 @@
 
 [SIGIR'17] **EntiTables: Smart Assistance for Entity-Focused Tables**
 [[paper](https://doi.org/10.18653/v1/2023.findings-acl.348)]
+[[code](https://github.com/iai-group/sigir2017-table)]
 
 [ACL'23] **Retrieval-Based Transformer for Table Augmentation**
 [[paper](https://doi.org/10.18653/v1/2023.findings-acl.348)]
 
 [VLDB'22] **Integrating Data Lake Tables**
 [[paper](https://doi.org/10.14778/3574245.3574274)]
+[[code](https://github.com/northeastern-datalab/alite)]
 
 [SIGMOD'22] **Leva: Boosting Machine Learning Performance with Relational Embedding DataAugmentation**
 [[paper](https://doi.org/10.1145/3514221.3517891)]
@@ -125,6 +138,7 @@
 
 [VLDB'18] **Data synthesis based on generative adversarial networks**
 [[paper](https://doi.org/10.14778/3231751.3231757)]
+[[code](https://github.com/mahmoodm2/tableGAN)]
 
 [IJCAI'19] **FakeTables: Using GANs to Generate Functional Dependency Preserving Tables with Bounded Real Data**
 [[paper](https://doi.org/10.24963/ijcai.2019/287)]
@@ -134,12 +148,14 @@
 
 [ICLR'23] **STaSy: Score-based Tabular data Synthesis**
 [[paper](https://openreview.net/pdf?id=1mNssCWt_v)]
+[[code](https://github.com/JayoungKim408/STaSy)]
 
 [ICLR'23] **GOGGLE: Generative modelling for tabular data by learning relational structure**
 [[paper](https://openreview.net/pdf?id=fPVRcJqspu)]
 
 [ICML'23] **CoDi: Co-evolving Contrastive Diffusion Models for Mixed type Tabular Synthesis**
 [[paper](https://proceedings.mlr.press/v202/lee23i.html)]
+[[code](https://github.com/ChaejeongLee/CoDi)]
 
 [SIGMOD'24] **Controllable Tabular Data Synthesis Using Diffusion Models**
 [[paper](https://doi.org/10.1145/3639283)]
@@ -155,9 +171,11 @@
 
 [ICPRAM'21] **SIGRNN: Synthetic Minority Instances Generation in Imbalanced Datasets using a Recurrent Neural Network**
 [[paper](https://doi.org/10.5220/0010348103490356)]
+[[code](https://github.com/NU-CUCIS/SIGRNN)]
 
 [SIGKDD'22] **SOS: Score-based Oversampling for Tabular Data**
 [[paper](https://doi.org/10.1145/3534678.3539454)]
+[[code](https://github.com/JayoungKim408/SOS)]
 
 ###  Feature Construction
 
@@ -196,10 +214,12 @@
 [ICMLA'21] **Multiple Imputation via Generative Adversarial Network for High dimensional Blockwise Missing Value Problems**
 [[paper](https://doi.org/10.1109/ICMLA52953.2021.00131)]
 
-[CoRR'22] **Diffusion models for missing value imputation in tabular data**
+[Nips'22] **Diffusion models for missing value imputation in tabular data**
 [[paper](https://doi.org/10.48550/ARXIV.2210.17128)]
+[[code](https://github.com/pfnet-research/TabCSDI?tab=readme-ov-file)]
 
 ###  Table Synthesis
 
 [NIPS'22] **TransTab: Learning Transferable Tabular Transformers Across Tables**
 [[paper](https://papers.nips.cc/paper_files/paper/2022/hash/1377f76686d56439a2bd7a91859972f5-Abstract-Conference.html)]
+[[code](https://github.com/RyanWangZf/transtab)]
