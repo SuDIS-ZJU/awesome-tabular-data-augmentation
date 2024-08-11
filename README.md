@@ -670,7 +670,7 @@ The categorization of the TDA approaches, from both task-oriented and table-leve
 [ICLR'19] **PATE-GAN: Generating Synthetic Data with Differential Privacy Guarantees**
 [[paper](https://openreview.net/forum?id=S1zk9iRqF7)]
 
-[VLDB'18] **Data synthesis based on generative adversarial networks**
+[VLDB'18] ****
 [[paper](https://doi.org/10.14778/3231751.3231757)]
 [[code](https://github.com/mahmoodm2/tableGAN)]
 
@@ -907,12 +907,15 @@ Representative datasets used in TDA studies, including their basic properties an
 
 [SIGIR'17] **EntiTables: Smart Assistance for Entity-Focused Tables**
 [[paper](https://doi.org/10.1145/3077136.3080796)]
+[[code](https://github.com/iai-group/sigir2017-table)]
 
 [SIGIR'19] **Table2Vec: Neural Word and Entity Embeddings for Table Population and Retrieval**
 [[paper](https://doi.org/10.1145/3331184.3331333)]
+[[code](https://github.com/ninalx/table2vec-lideng)]
 
 [VLDB'18] **Data synthesis based on generative adversarial networks**
 [[paper](https://doi.org/10.14778/3231751.3231757)]
+[[code](https://github.com/mahmoodm2/tableGAN)]
 
 [IJCAI'19] **FakeTables: Using GANs to Generate Functional Dependency Preserving Tables with Bounded Real Data**
 [[paper](https://doi.org/10.24963/ijcai.2019/287)]
@@ -927,6 +930,7 @@ Representative datasets used in TDA studies, including their basic properties an
 
 [VLDB'23] **Semantics-aware Dataset Discovery from Data Lakes with Contextualized Column-based Representation Learning.**
 [[paper](https://doi.org/10.14778/3587136.3587146)]
+[[code](https://github.com/megagonlabs/starmie)]
 
 [ICDE'23] **Metam: Goal-Oriented Data Discovery**
 [[paper](https://doi.org/10.1109/ICDE55515.2023.00213)]
@@ -939,6 +943,7 @@ Representative datasets used in TDA studies, including their basic properties an
 
 [VLDB'18] **Data synthesis based on generative adversarial networks**
 [[paper](https://doi.org/10.14778/3231751.3231757)]
+[[code](https://github.com/mahmoodm2/tableGAN)]
 
 [SIGMOD'22] **Leva: Boosting Machine Learning Performance with Relational Embedding DataAugmentation**
 [[paper](https://doi.org/10.1145/3514221.3517891)]
