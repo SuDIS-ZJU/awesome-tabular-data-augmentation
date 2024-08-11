@@ -455,6 +455,7 @@ Overview of pre-augmentation tasks. The table contains a non-exhaustive list of 
   </tr>
 </tbody></table>
 
+The illustration of different TDA scenarios and their suited pre-augmentation tasks.
 
 ![Sources](Figures/Pre-augmentation_for_different_scenarios.png)
 
