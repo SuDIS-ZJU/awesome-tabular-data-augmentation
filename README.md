@@ -491,9 +491,9 @@ Overview of pre-augmentation tasks. The table contains a non-exhaustive list of 
   </tr>
   <tr>
     <td class="tg-c3ow">66</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.48786/EDBT.2025.07"> OmniMatch: Overcoming the Cold-Start Problem<br>in Cross-Domain Recommendations using Auxiliary Reviews </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.48550/arXiv.2403.07653"> OmniMatch: Effective Self-Supervised Any-Join Discovery<br>in Tabular Data Repositories </a></td>
     <td class="tg-0pky">2024</td>
-    <td class="tg-c3ow">EDBT</td>
+    <td class="tg-c3ow">CoRR</td>
     <td class="tg-0pky">Error Handling(Implicit), Table Representation (Content), Table Navigation (Linkage graph)</td>
   </tr>
   <tr>
@@ -606,7 +606,7 @@ The categorization of the TDA approaches, from both task-oriented and table-leve
 [VLDB'23] **DeepJoin: Joinable Table Discovery with Pre-Trained Language Models**
 [[paper](https://doi.org/10.14778/3603581.3603587)]
 
-[EDBT'24] **OmniMatch:OvercomingtheCold-StartProblem in Cross-Domain Recommendations using Auxiliary Reviews.**
+[CoRR'24] **OmniMatch: Effective Self-Supervised Any-Join Discovery in Tabular Data Repositories**
 [[paper](https://doi.org/10.48786/EDBT.2025.07)]
 
 [SIGMOD'20] **Creating Embeddings of Heterogeneous Relational Datasets for Data Integration Tasks**
