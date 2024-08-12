@@ -470,9 +470,9 @@ Overview of pre-augmentation tasks. The table contains a non-exhaustive list of 
   </tr>
   <tr>
     <td class="tg-c3ow">66</td>
-    <td class="tg-0pky"><a href="https://doi.org/10.48786/EDBT.2025.07"> OmniMatch: Overcoming the Cold-Start Problem<br>in Cross-Domain Recommendations using Auxiliary Reviews </a></td>
+    <td class="tg-0pky"><a href="https://doi.org/10.48550/arXiv.2403.07653"> OmniMatch: Effective Self-Supervised Any-Join Discovery in Tabular Data Repositories </a></td>
     <td class="tg-0pky">2024</td>
-    <td class="tg-c3ow">EDBT</td>
+    <td class="tg-c3ow">CoRR</td>
     <td class="tg-0pky">Error Handling(Implicit), Table Representation (Content), Table Navigation (Linkage graph)</td>
   </tr>
   <tr>
