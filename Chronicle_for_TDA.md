@@ -8,8 +8,8 @@ Papers listed here may be not from top publications, some of them even are not f
 [CIDR] **SMARTFEAT:Efficient Feature Construction through Feature-Level Foundation Model Interactions**
 [[paper](https://www.cidrdb.org/cidr2024/papers/p72-lin.pdf)]
 
-[EDBT] **OmniMatch: Overcoming the Cold-Start Problem in Cross-Domain Recommendations using Auxiliary Reviews**
-[[paper](https://doi.org/10.48786/EDBT.2025.07)]
+[CoRR] **OmniMatch: Effective Self-Supervised Any-Join Discovery in Tabular Data Repositories**
+[[paper](https://doi.org/10.48550/arXiv.2403.07653)]
 
 [CoRR] **FeatNavigator: Automatic Feature Augmentation on Tabular Data**
 [[paper](https://doi.org/10.48550/ARXIV.2406.09534)]
