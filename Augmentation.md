@@ -72,8 +72,8 @@ The categorization of the TDA approaches, from both task-oriented and table-leve
 [VLDB'23] **DeepJoin: Joinable Table Discovery with Pre-Trained Language Models**
 [[paper](https://doi.org/10.14778/3603581.3603587)]
 
-[EDBT'24] **OmniMatch:OvercomingtheCold-StartProblem in Cross-Domain Recommendations using Auxiliary Reviews.**
-[[paper](https://doi.org/10.48786/EDBT.2025.07)]
+[CoRR'24] **OmniMatch: Effective Self-Supervised Any-Join Discovery in Tabular Data Repositories**
+[[paper](https://doi.org/10.48550/arXiv.2403.07653)]
 
 [SIGMOD'20] **Creating Embeddings of Heterogeneous Relational Datasets for Data Integration Tasks**
 [[paper](https://doi.org/10.1145/3318464.3389742)]
