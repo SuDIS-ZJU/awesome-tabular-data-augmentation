@@ -5,10 +5,10 @@ Papers listed here may be not from top publications, some of them even are not f
 [SIGMOD] **Controllable Tabular Data Synthesis Using Diffusion Models**
 [[paper](https://doi.org/10.1145/3639283)]
 
-[EDBT] **OmniMatch: Overcoming the Cold-Start Problem<br>in Cross-Domain Recommendations using Auxiliary Reviews**
+[EDBT] **OmniMatch: Overcoming the Cold-Start Problem in Cross-Domain Recommendations using Auxiliary Reviews**
 [[paper](https://doi.org/10.48786/EDBT.2025.07)]
 
-[CIDR] **SMARTFEAT:Efficient Feature Construction<br>through Feature-Level Foundation Model Interactions**
+[CIDR] **SMARTFEAT:Efficient Feature Construction through Feature-Level Foundation Model Interactions**
 [[paper](https://www.cidrdb.org/cidr2024/papers/p72-lin.pdf)]
 
 [CoRR] **FeatNavigator: Automatic Feature Augmentation on Tabular Data**
@@ -140,13 +140,13 @@ Papers listed here may be not from top publications, some of them even are not f
 [ICDE] **Efficient Joinable Table Discovery in Data Lakes: A High-Dimensional Similarity-Based Approach**
 [[paper](https://ieeexplore.ieee.org/document/9458717/)]
 
-[ICMLA] **Multiple Imputation via Generative Adversarial Network<br>for High-dimensional Blockwise Missing Value Problems**
+[ICMLA] **Multiple Imputation via Generative Adversarial Network for High-dimensional Blockwise Missing Value Problems**
 [[paper](https://doi.org/10.1109/ICMLA52953.2021.00131)]
 
 [ESWA] **Conditional Wasserstein GAN-based oversampling of tabular data for imbalanced learning**
 [[paper](https://doi.org/10.1016/j.eswa.2021.114582)]
 
-[ICPRAM] **SIGRNN: Synthetic Minority Instances Generation<br>in Imbalanced Datasets using a Recurrent Neural Network**
+[ICPRAM] **SIGRNN: Synthetic Minority Instances Generation in Imbalanced Datasets using a Recurrent Neural Network**
 [[paper](https://doi.org/10.5220/0010348103490356)]
 [[code](https://github.com/NU-CUCIS/SIGRNN)]
 
@@ -205,19 +205,19 @@ Papers listed here may be not from top publications, some of them even are not f
 [CIKM] **Auto-completion for Data Cells in Relational Tables**
 [[paper](https://dl.acm.org/doi/10.1145/3357384.3357932)]
 
-[ICML] **MIWAE: Deep Generative Modelling<br>and Imputation of Incomplete Data Sets**
+[ICML] **MIWAE: Deep Generative Modelling and Imputation of Incomplete Data Sets**
 [[paper](https://proceedings.mlr.press/v97/mattei19a.html)]
 
-[IJCAI] **FakeTables: Using GANs to Generate<br>Functional Dependency Preserving Tables<br>with Bounded Real Data**
+[IJCAI] **FakeTables: Using GANs to Generate Functional Dependency Preserving Tables with Bounded Real Data**
 [[paper](https://doi.org/10.24963/ijcai.2019/287)]
 
-[ICLR] **PATE-GAN: Generating Synthetic Data<br>with Differential Privacy Guarantees**
+[ICLR] **PATE-GAN: Generating Synthetic Data with Differential Privacy Guarantees**
 [[paper](https://openreview.net/forum?id=S1zk9iRqF7)]
 
 [Nips] **Modeling Tabular data using Conditional GAN**
 [[paper](https://proceedings.neurips.cc/paper/2019/hash/254ed7d2de3b23ab10936522dd547b78-Abstract.html)]
 
-[ICLR] **MisGAN: Learning from Incomplete Data<br>with Generative Adversarial Networks**
+[ICLR] **MisGAN: Learning from Incomplete Data with Generative Adversarial Networks**
 [[paper](https://openreview.net/forum?id=S1lDV3RcKm)]
 
 ### Year 2018
@@ -236,7 +236,7 @@ Papers listed here may be not from top publications, some of them even are not f
 [[paper](https://dl.acm.org/doi/10.14778/3231751.3231757)]
 [[code](https://github.com/mahmoodm2/tableGAN)]
 
-[ICML] **GAIN: Missing Data Imputation<br>using Generative Adversarial Nets**
+[ICML] **GAIN: Missing Data Imputation using Generative Adversarial Nets**
 [[paper](https://proceedings.mlr.press/v80/yoon18a.html)]
 
 ### Year 2017
