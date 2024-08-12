@@ -5,11 +5,11 @@ Papers listed here may be not from top publications, some of them even are not f
 [SIGMOD] **Controllable Tabular Data Synthesis Using Diffusion Models**
 [[paper](https://doi.org/10.1145/3639283)]
 
-[EDBT] **OmniMatch: Overcoming the Cold-Start Problem in Cross-Domain Recommendations using Auxiliary Reviews**
-[[paper](https://doi.org/10.48786/EDBT.2025.07)]
-
 [CIDR] **SMARTFEAT:Efficient Feature Construction through Feature-Level Foundation Model Interactions**
 [[paper](https://www.cidrdb.org/cidr2024/papers/p72-lin.pdf)]
+
+[EDBT] **OmniMatch: Overcoming the Cold-Start Problem in Cross-Domain Recommendations using Auxiliary Reviews**
+[[paper](https://doi.org/10.48786/EDBT.2025.07)]
 
 [CoRR] **FeatNavigator: Automatic Feature Augmentation on Tabular Data**
 [[paper](https://doi.org/10.48550/ARXIV.2406.09534)]
@@ -24,25 +24,19 @@ Papers listed here may be not from top publications, some of them even are not f
 [[paper](https://dl.acm.org/doi/10.1145/3588689)]
 [[code](https://github.com/northeastern-datalab/santos)]
 
+[SIGMOD] **Watchog: A Light-weight Contrastive Learning based Framework for Column Annotation**
+[[paper](https://dl.acm.org/doi/10.1145/3626766)]
+[[code](https://github.com/megagonlabs/watchog)]
+
+[SIGMOD] **Table Discovery in Data Lakes: State-of-the-art and Future Directions**
+[[paper](https://dl.acm.org/doi/10.1145/3555041.3589409)]
+
 [VLDB] **Semantics-aware Dataset Discovery from Data Lakes with Contextualized Column-based Representation Learning**
 [[paper](https://dl.acm.org/doi/10.14778/3587136.3587146)]
 [[code](https://github.com/megagonlabs/starmie)]
 
-[ACL findings] **Automatic Table Union Search with Tabular Representation Learning**
-[[paper](https://aclanthology.org/2023.findings-acl.233/)]
-
-[ACL findings] **Retrieval-Based Transformer for Table Augmentation**
-[[paper](https://doi.org/10.18653/v1/2023.findings-acl.348)]
-
 [VLDB] **DeepJoin: Joinable Table Discovery with Pre-Trained Language Models**
 [[paper](https://dl.acm.org/doi/10.14778/3603581.3603587)]
-
-[SIGMOD Conference Companion] **Table Discovery in Data Lakes: State-of-the-art and Future Directions**
-[[paper](https://dl.acm.org/doi/10.1145/3555041.3589409)]
-
-[SIGMOD] **Watchog: A Light-weight Contrastive Learning based Framework for Column Annotation**
-[[paper](https://dl.acm.org/doi/10.1145/3626766)]
-[[code](https://github.com/megagonlabs/watchog)]
 
 [Nips] **HyTrel: Hypergraph-enhanced Tabular Data Representation Learning**
 [[paper](https://papers.nips.cc/paper_files/paper/2023/hash/8797d13e5998acfab387d4bf0a5b9b00-Abstract-Conference.html)]
@@ -61,6 +55,12 @@ Papers listed here may be not from top publications, some of them even are not f
 [ICML] **CoDi: Co-evolving Contrastive Diffusion Models for Mixed-type Tabular Synthesis**
 [[paper](https://proceedings.mlr.press/v202/lee23i.html)]
 
+[ACL findings] **Automatic Table Union Search with Tabular Representation Learning**
+[[paper](https://aclanthology.org/2023.findings-acl.233/)]
+
+[ACL findings] **Retrieval-Based Transformer for Table Augmentation**
+[[paper](https://doi.org/10.18653/v1/2023.findings-acl.348)]
+
 [ICDM] **Beyond Discrete Selection: Continuous Embedding Space Optimization for Generative Feature Selection**
 [[paper](https://doi.org/10.1109/ICDM58522.2023.00078)]
 
@@ -70,32 +70,8 @@ Papers listed here may be not from top publications, some of them even are not f
 
 ### Year 2022
 
-[VLDB] **Integrating Data Lake Tables**
-[[paper](https://dl.acm.org/doi/10.14778/3574245.3574274)]
-[[code](https://github.com/northeastern-datalab/alite)]
-
 [SIGMOD] **Leva: Boosting Machine Learning Performance with Relational Embedding Data Augmentation**
 [[paper](https://dl.acm.org/doi/10.1145/3514221.3517891)]
-
-[VLDB] **MATE: multi-attribute table extraction**
-[[paper](https://dl.acm.org/doi/10.14778/3529337.3529353)]
-[[code](https://github.com/LUH-DBS/MATE)]
-
-[VLDB] **Selective data acquisition in the wild for model charging**
-[[paper](https://dl.acm.org/doi/10.14778/3523210.3523223)]
-
-[ICDE] **Feature Augmentation with Reinforcement Learning**
-[[paper](https://ieeexplore.ieee.org/document/9835530/)]
-
-[VLDB] **Coresets over multiple tables for feature-rich and data-efficient machine learning**
-[[paper](https://dl.acm.org/doi/10.14778/3561261.3561267)]
-[[code](https://github.com/for0nething/RECON)]
-
-[ICDE] **A Sketch-based Index for Correlated Dataset Search**
-[[paper](https://ieeexplore.ieee.org/document/9835690/)]
-
-[TKDE] **Data Lake Organization**
-[[paper](https://ieeexplore.ieee.org/document/9693372/)]
 
 [SIGMOD] **Annotating Columns with Pre-trained Language Models**
 [[paper](https://dl.acm.org/doi/10.1145/3514221.3517906)]
@@ -105,9 +81,29 @@ Papers listed here may be not from top publications, some of them even are not f
 [[paper](https://dl.acm.org/doi/10.14778/3430915.3430921)]
 [[code](https://github.com/sunlab-osu/TURL)]
 
-[WWW] **StruBERT: Structure-aware BERT for Table Search and Matching**
-[[paper](https://dl.acm.org/doi/10.1145/3485447.3511972)]
-[[code](https://github.com/megagonlabs/doduo)]
+[VLDB] **Integrating Data Lake Tables**
+[[paper](https://dl.acm.org/doi/10.14778/3574245.3574274)]
+[[code](https://github.com/northeastern-datalab/alite)]
+
+[VLDB] **MATE: multi-attribute table extraction**
+[[paper](https://dl.acm.org/doi/10.14778/3529337.3529353)]
+[[code](https://github.com/LUH-DBS/MATE)]
+
+[VLDB] **Selective data acquisition in the wild for model charging**
+[[paper](https://dl.acm.org/doi/10.14778/3523210.3523223)]
+
+[VLDB] **Coresets over multiple tables for feature-rich and data-efficient machine learning**
+[[paper](https://dl.acm.org/doi/10.14778/3561261.3561267)]
+[[code](https://github.com/for0nething/RECON)]
+
+[ICDE] **Feature Augmentation with Reinforcement Learning**
+[[paper](https://ieeexplore.ieee.org/document/9835530/)]
+
+[ICDE] **A Sketch-based Index for Correlated Dataset Search**
+[[paper](https://ieeexplore.ieee.org/document/9835690/)]
+
+[TKDE] **Data Lake Organization**
+[[paper](https://ieeexplore.ieee.org/document/9693372/)]
 
 [Nips] **TransTab: Learning Transferable Tabular Transformers Across Tables**
 [[paper](https://papers.nips.cc/paper_files/paper/2022/hash/1377f76686d56439a2bd7a91859972f5-Abstract-Conference.html)]
@@ -116,6 +112,10 @@ Papers listed here may be not from top publications, some of them even are not f
 [Nips] **Diffusion models for missing value imputation in tabular data**
 [[paper](https://doi.org/10.48550/ARXIV.2210.17128)]
 [[code](https://github.com/pfnet-research/TabCSDI?tab=readme-ov-file)]
+
+[WWW] **StruBERT: Structure-aware BERT for Table Search and Matching**
+[[paper](https://dl.acm.org/doi/10.1145/3485447.3511972)]
+[[code](https://github.com/megagonlabs/doduo)]
 
 [SIGKDD] **SOS: Score-based Oversampling for Tabular Data**
 [[paper](https://doi.org/10.1145/3534678.3539454)]
@@ -192,6 +192,21 @@ Papers listed here may be not from top publications, some of them even are not f
 [[paper](https://dl.acm.org/doi/10.1145/3299869.3300065)]
 [[code](https://github.com/ekzhu/josie)]
 
+[ICML] **MIWAE: Deep Generative Modelling and Imputation of Incomplete Data Sets**
+[[paper](https://proceedings.mlr.press/v97/mattei19a.html)]
+
+[Nips] **Modeling Tabular data using Conditional GAN**
+[[paper](https://proceedings.neurips.cc/paper/2019/hash/254ed7d2de3b23ab10936522dd547b78-Abstract.html)]
+
+[ICLR] **PATE-GAN: Generating Synthetic Data with Differential Privacy Guarantees**
+[[paper](https://openreview.net/forum?id=S1zk9iRqF7)]
+
+[ICLR] **MisGAN: Learning from Incomplete Data with Generative Adversarial Networks**
+[[paper](https://openreview.net/forum?id=S1lDV3RcKm)]
+
+[IJCAI] **FakeTables: Using GANs to Generate Functional Dependency Preserving Tables with Bounded Real Data**
+[[paper](https://doi.org/10.24963/ijcai.2019/287)]
+
 [IJCAI] **FakeTables: Using GANs to Generate Functional Dependency Preserving Tables with Bounded Real Data**
 [[paper](https://www.ijcai.org/proceedings/2019/287)]
 
@@ -205,21 +220,6 @@ Papers listed here may be not from top publications, some of them even are not f
 [CIKM] **Auto-completion for Data Cells in Relational Tables**
 [[paper](https://dl.acm.org/doi/10.1145/3357384.3357932)]
 
-[ICML] **MIWAE: Deep Generative Modelling and Imputation of Incomplete Data Sets**
-[[paper](https://proceedings.mlr.press/v97/mattei19a.html)]
-
-[IJCAI] **FakeTables: Using GANs to Generate Functional Dependency Preserving Tables with Bounded Real Data**
-[[paper](https://doi.org/10.24963/ijcai.2019/287)]
-
-[ICLR] **PATE-GAN: Generating Synthetic Data with Differential Privacy Guarantees**
-[[paper](https://openreview.net/forum?id=S1zk9iRqF7)]
-
-[Nips] **Modeling Tabular data using Conditional GAN**
-[[paper](https://proceedings.neurips.cc/paper/2019/hash/254ed7d2de3b23ab10936522dd547b78-Abstract.html)]
-
-[ICLR] **MisGAN: Learning from Incomplete Data with Generative Adversarial Networks**
-[[paper](https://openreview.net/forum?id=S1lDV3RcKm)]
-
 ### Year 2018
 
 [VLDB] **Table union search on open data**
@@ -228,13 +228,13 @@ Papers listed here may be not from top publications, some of them even are not f
 [VLDB] **Open data integration**
 [[paper](https://dl.acm.org/doi/10.14778/3229863.3240491)]
 
-[ICDE] **Aurum: A Data Discovery System**
-[[paper](https://ieeexplore.ieee.org/document/8509315/)]
-[[code](https://github.com/mitdbg/aurum-datadiscovery)]
-
 [VLDB] **Data synthesis based on generative adversarial networks**
 [[paper](https://dl.acm.org/doi/10.14778/3231751.3231757)]
 [[code](https://github.com/mahmoodm2/tableGAN)]
+
+[ICDE] **Aurum: A Data Discovery System**
+[[paper](https://ieeexplore.ieee.org/document/8509315/)]
+[[code](https://github.com/mitdbg/aurum-datadiscovery)]
 
 [ICML] **GAIN: Missing Data Imputation using Generative Adversarial Nets**
 [[paper](https://proceedings.mlr.press/v80/yoon18a.html)]
