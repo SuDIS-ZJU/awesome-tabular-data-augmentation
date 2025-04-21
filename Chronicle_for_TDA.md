@@ -2,8 +2,16 @@
 Papers listed here may be not from top publications, some of them even are not for purely relational data, but are all interesting papers related to tabular data augmentation that deserve reading.
 
 ### Year 2024
+[VLDB] **LakeBench: A Benchmark for Discovering Joinable and Unionable Tables in Data Lakes**
+[[paper](https://dl.acm.org/doi/10.14778/3659437.3659448)]
+[[code](https://github.com/RLGen/LakeBench)]
+
 [SIGMOD] **Controllable Tabular Data Synthesis Using Diffusion Models**
 [[paper](https://doi.org/10.1145/3639283)]
+
+[SIGIR] **A Large Scale Test Corpus for Semantic Table Search**
+[[paper](https://dl.acm.org/doi/10.1145/3626772.3657877)]
+[[code](https://github.com/EDAO-Project/SemanticTableSearchDataset)]
 
 [CIDR] **SMARTFEAT:Efficient Feature Construction through Feature-Level Foundation Model Interactions**
 [[paper](https://www.cidrdb.org/cidr2024/papers/p72-lin.pdf)]
