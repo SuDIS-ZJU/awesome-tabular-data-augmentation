@@ -857,10 +857,60 @@ Representative datasets used in TDA studies, including their basic properties an
     <td class="tg-0pky">https://github.com/northeastern-datalab/santos</td>
   </tr>
   <tr>
+    <td class="tg-0pky">9</td>
+    <td class="tg-0pky">STSD WT’13</td>
+    <td class="tg-0pky">238,038</td>
+    <td class="tg-0pky">-</td>
+    <td class="tg-0pky">-</td>
+    <td class="tg-0pky">6 M</td>
+    <td class="tg-0pky">25.1</td>
+    <td class="tg-0pky">https://github.com/EDAO-Project/SemanticTableSearchDataset</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">10</td>
+    <td class="tg-0pky">STSD WT’19</td>
+    <td class="tg-0pky">457,714</td>
+    <td class="tg-0pky">-</td>
+    <td class="tg-0pky">-</td>
+    <td class="tg-0pky">11.4 M</td>
+    <td class="tg-0pky">24.9</td>
+    <td class="tg-0pky">https://github.com/EDAO-Project/SemanticTableSearchDataset</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">11</td>
+    <td class="tg-0pky">LakeBench-OpenData</td>
+    <td class="tg-0pky"> 65K</td>
+    <td class="tg-0pky">-</td>
+    <td class="tg-0pky">21.0</td>
+    <td class="tg-0pky">-</td>
+    <td class="tg-0pky">112.4k</td>
+    <td class="tg-0pky">https://github.com/RLGen/LakeBench</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">12</td>
+    <td class="tg-0pky">LakeBench-WebTable</td>
+    <td class="tg-0pky"> 16.6M</td>
+    <td class="tg-0pky">-</td>
+    <td class="tg-0pky">6.8</td>
+    <td class="tg-0pky">-</td>
+    <td class="tg-0pky">23.5</td>
+    <td class="tg-0pky">https://github.com/RLGen/LakeBench</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">13</td>
+    <td class="tg-0pky">nlcTables</td>
+    <td class="tg-0pky"> 22,080</td>
+    <td class="tg-0pky">-</td>
+    <td class="tg-0pky">7.1</td>
+    <td class="tg-0pky">-</td>
+    <td class="tg-0pky">543</td>
+    <td class="tg-0pky">https://github.com/SuDIS-ZJU/nlcTables</td>
+  </tr>
+  <tr>
     <td class="tg-0lax" colspan="8"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">9</td>
+    <td class="tg-0pky">14</td>
     <td class="tg-0pky">BTS</td>
     <td class="tg-0pky">1</td>
     <td class="tg-0pky">30</td>
@@ -870,7 +920,7 @@ Representative datasets used in TDA studies, including their basic properties an
     <td class="tg-0pky">https://www.transtats.bts.gov/DataIndex.asp</td>
   </tr>
   <tr>
-    <td class="tg-0pky">10</td>
+    <td class="tg-0pky">15</td>
     <td class="tg-0pky">UCI datasets <br>(e.g.,Adult, Covertype)</td>
     <td class="tg-0pky">-</td>
     <td class="tg-0pky">-</td>
@@ -880,7 +930,7 @@ Representative datasets used in TDA studies, including their basic properties an
     <td class="tg-0pky">https://archive.ics.uci.edu</td>
   </tr>
   <tr>
-    <td class="tg-0pky">11</td>
+    <td class="tg-0pky">16</td>
     <td class="tg-0pky">Kaggle <br>(e.g., Diabetes, Bank)</td>
     <td class="tg-0pky">-</td>
     <td class="tg-0pky">-</td>
@@ -890,7 +940,7 @@ Representative datasets used in TDA studies, including their basic properties an
     <td class="tg-0pky">https://www.kaggle.com</td>
   </tr>
   <tr>
-    <td class="tg-0pky">12</td>
+    <td class="tg-0pky">17</td>
     <td class="tg-0pky">OpenML repository <br>(e.g., Heart, Horce)</td>
     <td class="tg-0pky">-</td>
     <td class="tg-0pky">-</td>
