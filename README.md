@@ -16,6 +16,10 @@ The overview of TDA pipeline and the task-based taxonomy for TDA approaches. The
 
 ![Sources](Figures/TDA_pipeline.png)
 
+## Illustration of TDA tasks
+
+![Sources](Figures/TDA_tasks.png)
+
 ## Pre-augmentation <a href="Pre-augmentation.md"> :fast_forward: </a>
 In the TDA pipeline, pre-augmentation encompasses preparation tasks to facilitate effective augmentation. Below is the overview of the pre-augmentation tasks and their target TDA tasks.
 
@@ -1021,6 +1025,7 @@ Representative datasets used in TDA studies, including their basic properties an
 
 [VLDB'22] **Selective data acquisition in the wild for model charging**
 [[paper](https://doi.org/10.14778/3523210.3523223)]
+
 
 
 
