@@ -84,6 +84,10 @@ The categorization of the TDA approaches, from both task-oriented and table-leve
 
 ###  Cell Completion
 
+[VLDB'25] **Data Imputation with Limited Data Redundancy Using Data Lakes**
+[[paper](https://dl.acm.org/doi/10.14778/3748191.3748200)]
+[[code](https://github.com/HKUSTDial/Retrieval_Augmented_Imputation)]
+
 [SIGMOD'12] **InfoGather: entity augmentation and attribute discovery by holistic matching with web tables**
 [[paper](https://doi.org/10.1145/2213836.2213848)]
 
