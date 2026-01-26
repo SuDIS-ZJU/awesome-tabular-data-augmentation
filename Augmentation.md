@@ -47,6 +47,10 @@ The categorization of the TDA approaches, from both task-oriented and table-leve
 [ACL'23] **Automatic Table Union Search with Tabular Representation Learning**
 [[paper](https://doi.org/10.18653/v1/2023.findings-acl.233)]
 
+[ICDE'25] **LIFTus: An Adaptive Multi-Aspect Column Representation Learning for Table Union Search**
+[[paper](https://ieeexplore.ieee.org/document/11113165/)]
+[[code](https://github.com/MsiQue/LIFTus)]
+
 ###  Schema Augmentation
 
 [VLDB'16] **LSH ensemble: internet-scale domain search**
