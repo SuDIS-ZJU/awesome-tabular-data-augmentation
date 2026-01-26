@@ -1,6 +1,31 @@
 ## ❖ Must-Read Papers on Tabular Data Augmentation (TDA)
 Papers listed here may be not from top publications, some of them even are not for purely relational data, but are all interesting papers related to tabular data augmentation that deserve reading.
 
+### Year 2025
+[VLDB] **Data Imputation with Limited Data Redundancy Using Data Lakes**
+[[paper](https://dl.acm.org/doi/10.14778/3748191.3748200)]
+[[code](https://github.com/HKUSTDial/Retrieval_Augmented_Imputation)]
+
+[ICDE] **LIFTus: An Adaptive Multi-Aspect Column Representation Learning for Table Union Search**
+[[paper](https://ieeexplore.ieee.org/document/11113165/)]
+[[code](https://github.com/MsiQue/LIFTus)]
+
+[ICDE] **TabSketchFM: Sketch-Based Tabular Representation Learning for Data Discovery Over Data Lakes**
+[[paper](https://ieeexplore.ieee.org/abstract/document/11113110)]
+[[code](https://github.com/ibm/tabsketchfm)]
+
+[Arxiv] **An Efficient Proximity Graph-based Approach to Table Union Search**
+[[paper](http://arxiv.org/abs/2511.05082)]
+
+[Arxiv] **Towards Operationalizing Heterogeneous Data Discovery**
+[[paper](http://arxiv.org/abs/2505.11545)]
+
+[Arxiv] **TARGET: Benchmarking Table Retrieval for Generative Tasks**
+[[paper](http://arxiv.org/abs/2504.02059)]
+
+[Arxiv] **A Comprehensive Survey of Synthetic Tabular Data Generation**
+[[paper](http://arxiv.org/abs/2504.16506)]
+
 ### Year 2024
 [VLDB] **LakeBench: A Benchmark for Discovering Joinable and Unionable Tables in Data Lakes**
 [[paper](https://dl.acm.org/doi/10.14778/3659437.3659448)]
@@ -13,7 +38,7 @@ Papers listed here may be not from top publications, some of them even are not f
 [[paper](https://dl.acm.org/doi/10.1145/3626772.3657877)]
 [[code](https://github.com/EDAO-Project/SemanticTableSearchDataset)]
 
-[CIDR] **SMARTFEAT:Efficient Feature Construction through Feature-Level Foundation Model Interactions**
+[CIDR] **SMARTFEAT: Efficient Feature Construction through Feature-Level Foundation Model Interactions**
 [[paper](https://www.cidrdb.org/cidr2024/papers/p72-lin.pdf)]
 
 [CoRR] **OmniMatch: Effective Self-Supervised Any-Join Discovery in Tabular Data Repositories**
