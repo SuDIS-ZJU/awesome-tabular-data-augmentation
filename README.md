@@ -669,6 +669,8 @@ The categorization of the TDA approaches, from both task-oriented and table-leve
 
 ###  Record Generation
 
+
+[arXiv'2020] **Tabular GANs for uneven distribution** [[paper](https://arxiv.org/abs/2010.00638)] [[code](https://github.com/Diyago/Tabular-data-generation)]
 [SIGMOD'07] **Privacy, accuracy, and consistency too: a holistic solution to contingency table release**
 [[paper](https://doi.org/10.1145/1265530.1265569)]
 
